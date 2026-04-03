@@ -113,7 +113,7 @@ jupyter notebook sales_analytics.ipynb
 
 **Aditya Mahajan**  
 Data Analyst | Python · Power BI · SQL  
-📧 adityamahajan814gmail.com
+📧 adityamahajan814@gmail.com
 [LinkedIn](https://linkedin.com/in/adityamahajan-58b432266) · [GitHub](https://github.com/Aditya9740)
 
 ---
