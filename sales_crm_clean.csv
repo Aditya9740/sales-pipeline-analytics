@@ -1,0 +1,599 @@
+deal_id,company_name,industry,lead_source,deal_value,stage,created_date,close_date,sales_rep,region,next_step,probability,sales_cycle_days
+DEAL-0382,Dugar PLC,E-Commerce,Referral,196753.32,Negotiation,2022-06-11,2022-09-24,Priya Nair,North,Pricing Discussion,70,105.0
+DEAL-0236,Mahajan-Bhatia,FinTech,Referral,21486.27,Closed Won,2022-03-11,2022-07-23,Aman Verma,West,,50,134.0
+DEAL-0258,Chawla-Thakkar,IT Services,Referral,215097.6,Proposal Sent,2023-03-18,2023-08-14,Karan Mehta,South,Stakeholder Meeting,30,149.0
+DEAL-0339,Amble-Bedi,SaaS,Partner,138042.52,Closed Won,2023-08-07,2023-10-15,Priya Nair,West,Pricing Discussion,80,69.0
+DEAL-0320,Johal-Sodhi,Real Estate,Inbound,156846.31,Closed Lost,2022-11-18,2023-03-12,Sonal Joshi,North,Stakeholder Meeting,90,114.0
+DEAL-0212,Bhatti-Chakrabarti,Healthcare,Partner,176594.3,Closed Won,2023-02-13,2023-12-07,Aman Verma,North,Pricing Discussion,90,297.0
+DEAL-0368,Ahluwalia-Nadig,Healthcare,Linkedin,90178.57416666667,Closed Won,2023-09-29,2024-03-16,Arjun Pillai,South,Follow Up Call,40,169.0
+DEAL-0177,"Nath, Bhasin and Kakar",IT Services,Website,121976.25,Discovery,2022-06-15,2022-07-24,Neha Gupta,South,Follow Up Call,10,39.0
+DEAL-0336,Bhattacharyya and Sons,Retail,Event,174610.49,Discovery,2022-08-29,2022-10-30,Deepak Rao,South,Schedule Demo,20,62.0
+DEAL-0257,Sahota Group,Real Estate,Cold Email,64037.21,Closed Lost,2023-11-06,2024-03-14,Priya Nair,South,Send Proposal,60,129.0
+DEAL-0315,Sabharwal Ltd,EdTech,Partner,136255.84,Discovery,2022-08-11,2022-12-15,Neha Gupta,West,Pricing Discussion,60,126.0
+DEAL-0166,Buch Ltd,FinTech,Cold Outreach,25041.47,Proposal Sent,2022-07-02,2022-12-08,Deepak Rao,North,Follow Up Call,40,159.0
+DEAL-0481,Chaudhry Group,E-Commerce,Inbound,126351.77,Negotiation,2022-08-22,2022-09-24,Riya Sharma,West,Technical Eval,70,33.0
+DEAL-0079,Hegde-Parikh,SaaS,Inbound,93818.33,Prospecting,2022-03-08,2022-11-08,Deepak Rao,West,Schedule Demo,40,245.0
+DEAL-0376,"Nagar, Tailor and Kata",Real Estate,Website,142086.45,Closed Won,2022-05-16,2022-10-14,Priya Nair,West,Send Proposal,90,151.0
+DEAL-0444,Bumb-Gala,E-Commerce,Cold Outreach,159291.28,Negotiation,2022-02-12,2022-05-13,Priya Nair,West,Pricing Discussion,60,90.0
+DEAL-0617,Som Ltd,E-Commerce,Linkedin,8010.58,Qualified,2022-02-21,2022-07-13,Arjun Pillai,North,Pricing Discussion,30,142.0
+DEAL-0241,Sura-Rai,EdTech,Cold Outreach,195135.59,Closed Won,2022-01-09,2022-10-06,Riya Sharma,East,Technical Eval,70,270.0
+DEAL-0537,Raman-Jayaraman,SaaS,Cold Outreach,163983.25,Negotiation,2023-06-04,2023-11-07,Sonal Joshi,North,Stakeholder Meeting,30,156.0
+DEAL-0543,Behl Inc,Healthcare,Linkedin,24094.99,Prospecting,2023-12-15,2024-01-07,Riya Sharma,East,,50,23.0
+DEAL-0337,"Sethi, Nadkarni and Sarin",Real Estate,Linkedin,71418.29,Prospecting,2023-02-18,,Priya Nair,North,Pricing Discussion,50,
+DEAL-0291,"Kalla, Raval and Deep",Retail,Event,77322.11,Qualified,2022-04-06,2022-07-11,Riya Sharma,West,,10,96.0
+DEAL-0413,Dara PLC,Real Estate,Linkedin,101593.12333333335,Closed Won,2022-09-15,2022-10-18,Arjun Pillai,South,Contract Review,100,33.0
+DEAL-0630,Hari-Rana,IT Services,Referral,219862.85,Negotiation,2023-09-20,,Priya Nair,North,,50,
+DEAL-0330,"Bhakta, Jaggi and Nayar",E-Commerce,Inbound,161003.28,Prospecting,2022-03-24,2022-07-28,Neha Gupta,West,,80,126.0
+DEAL-0251,Bava LLC,Real Estate,Linkedin,141183.41,Negotiation,2022-09-06,2022-12-22,Riya Sharma,East,Send Proposal,80,107.0
+DEAL-0055,Zachariah and Sons,Real Estate,Inbound,89615.79,Closed Lost,2023-07-20,2023-12-30,Arjun Pillai,West,Stakeholder Meeting,20,163.0
+DEAL-0465,"Chaudhry, Gola and Zacharia",EdTech,Website,108644.5,Qualified,2022-12-07,,Aman Verma,North,,80,
+DEAL-0421,"Sule, Sharaf and Bali",Manufacturing,Cold Outreach,200076.61,Prospecting,2022-08-12,,Sonal Joshi,South,Contract Review,90,
+DEAL-0134,Pandey-Dutta,SaaS,Referral,219390.12000000002,Prospecting,2022-02-18,2022-07-19,Priya Nair,West,,10,151.0
+DEAL-0387,Bhat-Bains,EdTech,Cold Outreach,211195.28,Proposal Sent,2023-09-19,2024-02-18,Arjun Pillai,East,Contract Review,100,152.0
+DEAL-0137,"Sachdev, Gokhale and Dhillon",Manufacturing,Linkedin,57426.77,Closed Won,2023-10-05,2024-03-15,Karan Mehta,East,Schedule Demo,80,162.0
+DEAL-0110,"Doctor, Oza and Choudhry",IT Services,Cold Email,51742.16,Discovery,2022-11-19,,Sonal Joshi,North,,50,
+DEAL-0363,Mitter-Madan,Retail,Linkedin,42797.84,Proposal Sent,2023-04-14,2023-05-21,Aman Verma,West,Follow Up Call,10,37.0
+DEAL-0213,"Purohit, Savant and Dutta",Real Estate,Referral,19762.63,Negotiation,2023-11-19,2024-02-19,Karan Mehta,South,Contract Review,60,92.0
+DEAL-0345,Chaudhary-Basu,IT Services,Website,143840.5,Qualified,2022-03-25,2022-05-18,Riya Sharma,North,,50,54.0
+DEAL-0133,Kamdar-Bir,Real Estate,Linkedin,40886.65,Closed Lost,2022-04-04,2022-05-24,Arjun Pillai,West,,90,50.0
+DEAL-0250,Soman-Oza,Healthcare,Inbound,47907.63,Negotiation,2023-04-30,2023-05-30,Deepak Rao,South,Technical Eval,20,30.0
+DEAL-0357,"Muni, Karan and Deshmukh",Healthcare,Event,140494.24,Closed Won,2022-09-29,2022-10-20,Sonal Joshi,South,Pricing Discussion,30,21.0
+DEAL-0584,Swaminathan and Sons,Real Estate,Cold Email,179594.12,Proposal Sent,2022-08-29,2022-09-12,Karan Mehta,East,Schedule Demo,60,14.0
+DEAL-0646,Bhavsar and Sons,SaaS,Partner,107854.88,Discovery,2022-10-09,2022-10-25,Arjun Pillai,North,Follow Up Call,40,16.0
+DEAL-0138,Bora Group,FinTech,Website,71427.52,Closed Lost,2022-06-13,2022-07-01,Neha Gupta,East,,90,18.0
+DEAL-0528,"Wadhwa, Banik and Gandhi",Healthcare,Cold Email,209992.03,Closed Lost,2023-03-18,2023-09-03,Deepak Rao,West,,60,169.0
+DEAL-0077,Om Inc,E-Commerce,Linkedin,16084.39,Closed Won,2023-01-15,2023-03-12,Aman Verma,West,Stakeholder Meeting,40,56.0
+DEAL-0483,Deep PLC,EdTech,Website,138061.01,Closed Won,2022-01-25,2022-07-02,Priya Nair,North,Pricing Discussion,20,158.0
+DEAL-0278,Dhillon PLC,EdTech,Inbound,177423.3,Closed Lost,2023-03-09,2023-04-23,Arjun Pillai,West,,70,45.0
+DEAL-0091,Kuruvilla Inc,E-Commerce,Partner,41490.46,Qualified,2022-06-17,2022-09-29,Priya Nair,South,Contract Review,30,104.0
+DEAL-0479,"Nazareth, Edwin and Ravi",Retail,Inbound,75724.23,Qualified,2022-12-25,,Aman Verma,North,Stakeholder Meeting,60,
+DEAL-0011,Rege-Barad,IT Services,Linkedin,176553.72,Discovery,2022-03-31,2022-04-15,Sonal Joshi,South,Technical Eval,100,15.0
+DEAL-0064,Goel PLC,Healthcare,Website,181676.47,Closed Lost,2022-02-16,2022-06-23,Priya Nair,North,Follow Up Call,10,127.0
+DEAL-0457,Subramanian LLC,SaaS,Website,32576.75,Negotiation,2023-09-28,,Priya Nair,South,Send Proposal,100,
+DEAL-0550,Cherian Inc,E-Commerce,Inbound,30284.38,Closed Won,2023-01-24,2023-03-12,Deepak Rao,West,Follow Up Call,30,47.0
+DEAL-0581,Srinivas-Raju,Logistics,Inbound,8379.39,Closed Won,2023-09-27,2023-12-07,Riya Sharma,South,Pricing Discussion,20,71.0
+DEAL-0578,Balasubramanian Group,Manufacturing,Inbound,138857.27,Closed Won,2023-06-12,2023-11-16,Aman Verma,North,Schedule Demo,50,157.0
+DEAL-0032,"Rajan, Vala and Narayan",Retail,Cold Outreach,132129.96,Negotiation,2022-01-07,2022-05-04,Priya Nair,South,,20,117.0
+DEAL-0221,Atwal-Koshy,Healthcare,Referral,242005.97,Proposal Sent,2022-08-19,2023-01-02,Neha Gupta,North,Technical Eval,60,136.0
+DEAL-0078,"Sem, Devi and Bail",Real Estate,Partner,282250.44,Closed Won,2022-12-30,2023-09-04,Neha Gupta,West,Schedule Demo,30,248.0
+DEAL-0370,Chadha-Gill,Healthcare,Cold Outreach,30306.77,Closed Won,2022-04-13,2022-07-29,Karan Mehta,West,Follow Up Call,100,107.0
+DEAL-0575,Radhakrishnan and Sons,Real Estate,Referral,7956.42,Discovery,2023-11-06,,Deepak Rao,South,Stakeholder Meeting,100,
+DEAL-0211,"Edwin, Chaudry and Vora",Manufacturing,Partner,22892.23,Closed Won,2022-11-16,2023-02-22,Deepak Rao,East,,20,98.0
+DEAL-0056,Lall Inc,Manufacturing,Linkedin,191362.92,Negotiation,2022-10-28,2023-03-31,Priya Nair,South,,40,154.0
+DEAL-0136,Nanda LLC,E-Commerce,Linkedin,165713.15,Prospecting,2022-06-06,,Neha Gupta,North,,60,
+DEAL-0312,Bhardwaj Inc,Manufacturing,Linkedin,123160.23636363637,Negotiation,2022-08-06,2022-10-22,Riya Sharma,East,Schedule Demo,30,77.0
+DEAL-0228,Bose and Sons,EdTech,Partner,181178.02,Closed Won,2023-08-26,2023-12-18,Sonal Joshi,West,Schedule Demo,90,114.0
+DEAL-0003,Singhal-Datta,Retail,Referral,38253.46,Qualified,2022-01-26,2022-04-05,Neha Gupta,North,Schedule Demo,80,69.0
+DEAL-0632,Pradhan Group,SaaS,Cold Outreach,26164.45,Proposal Sent,2023-03-13,2023-05-02,Aman Verma,North,Schedule Demo,60,50.0
+DEAL-0082,"Prabhu, Aggarwal and Halder",Real Estate,Inbound,157694.19,Proposal Sent,2023-12-20,2024-05-10,Neha Gupta,East,Schedule Demo,20,142.0
+DEAL-0381,"Mody, Mital and Dey",Real Estate,Partner,913942.81,Negotiation,2022-10-19,2023-01-17,Priya Nair,South,Follow Up Call,10,90.0
+DEAL-0347,Kakar-Toor,FinTech,Linkedin,99042.32,Negotiation,2023-11-05,2023-12-18,Aman Verma,North,Technical Eval,80,43.0
+DEAL-0648,Iyengar-Gour,Manufacturing,Referral,919737.91,Prospecting,2022-03-21,2022-08-21,Priya Nair,West,Pricing Discussion,20,153.0
+DEAL-0121,"Vaidya, Nanda and Chowdhury",SaaS,Cold Outreach,171782.74,Closed Won,2023-07-29,2023-08-29,Neha Gupta,South,,70,31.0
+DEAL-0597,Johal-Patel,Real Estate,Referral,19691.31,Closed Won,2023-03-01,2023-08-22,Aman Verma,South,Contract Review,10,174.0
+DEAL-0248,"Sharaf, Dube and Sarin",EdTech,Linkedin,72412.71,Prospecting,2023-08-08,2024-01-09,Riya Sharma,West,Technical Eval,40,154.0
+DEAL-0560,Madan-Trivedi,Manufacturing,Linkedin,39303.22,Closed Won,2022-10-21,2023-04-15,Karan Mehta,East,Schedule Demo,60,176.0
+DEAL-0280,Sahota Ltd,Logistics,Linkedin,74349.5,Closed Won,2022-10-13,2023-01-10,Neha Gupta,West,Follow Up Call,90,89.0
+DEAL-0622,"Basu, Gopal and Ramesh",Retail,Referral,179935.1,Prospecting,2022-05-17,,Arjun Pillai,West,,50,
+DEAL-0132,"Andra, Ramachandran and Goswami",Real Estate,Cold Outreach,89558.0,Closed Won,2023-05-21,2023-08-06,Riya Sharma,West,Stakeholder Meeting,40,77.0
+DEAL-0303,Narang-Gera,IT Services,Referral,185814.97625,Negotiation,2023-04-02,2023-06-14,Sonal Joshi,West,Follow Up Call,60,73.0
+DEAL-0061,Dara LLC,Real Estate,Partner,216720.14,Proposal Sent,2022-07-16,2022-11-28,Deepak Rao,West,,50,135.0
+DEAL-0149,"Srinivasan, Murty and Mohanty",Manufacturing,Cold Outreach,190198.21,Closed Won,2023-07-21,2023-10-17,Riya Sharma,North,Technical Eval,100,88.0
+DEAL-0031,"Panchal, Ramesh and Sura",Healthcare,Cold Outreach,60240.22,Discovery,2022-10-12,2023-01-27,Karan Mehta,East,Pricing Discussion,30,107.0
+DEAL-0070,"Bhattacharyya, Rajagopalan and Halder",FinTech,Inbound,147919.31,Closed Lost,2022-04-14,2022-09-22,Arjun Pillai,North,Contract Review,20,161.0
+DEAL-0498,Dua Ltd,Manufacturing,Cold Outreach,144668.21,Discovery,2022-01-29,2022-02-21,Arjun Pillai,West,Send Proposal,30,23.0
+DEAL-0224,"Shroff, Pai and Kala",E-Commerce,Inbound,854.08,Prospecting,2022-01-22,2022-02-26,Arjun Pillai,West,Schedule Demo,70,35.0
+DEAL-0531,Lad-Kota,E-Commerce,Partner,248000.37,Prospecting,2022-05-12,2023-02-13,Neha Gupta,North,Technical Eval,50,277.0
+DEAL-0071,Rajagopalan Inc,Manufacturing,Inbound,91122.4309090909,Closed Won,2023-01-25,2023-04-07,Priya Nair,South,,80,72.0
+DEAL-0183,Thakkar-Din,EdTech,Cold Email,168607.6,Negotiation,2023-05-16,2023-09-30,Priya Nair,West,Schedule Demo,40,137.0
+DEAL-0165,Jayaraman and Sons,FinTech,Cold Outreach,222868.69,Closed Lost,2023-05-28,2023-08-17,Aman Verma,South,Send Proposal,10,81.0
+DEAL-0514,Seshadri-Narang,EdTech,Referral,188701.58,Negotiation,2023-01-30,,Karan Mehta,North,Follow Up Call,80,
+DEAL-0474,"Cheema, Bedi and Choudhry",SaaS,Inbound,105237.92,Qualified,2022-02-09,2022-05-07,Aman Verma,North,Send Proposal,20,87.0
+DEAL-0502,Ganguly-Raja,Real Estate,Inbound,131031.67,Closed Won,2023-08-18,2023-11-08,Arjun Pillai,South,Technical Eval,30,82.0
+DEAL-0324,"Mittal, Saran and Ramachandran",Healthcare,Partner,175822.9,Closed Won,2023-04-05,2023-07-13,Arjun Pillai,North,,40,99.0
+DEAL-0249,Chaudhary PLC,Retail,Cold Outreach,149958.44,Negotiation,2023-08-14,2023-10-09,Sonal Joshi,West,Stakeholder Meeting,100,56.0
+DEAL-0319,Narang-Rastogi,IT Services,Cold Outreach,133474.42,Qualified,2022-03-04,,Deepak Rao,West,Contract Review,90,
+DEAL-0066,"Behl, Bakshi and Srivastava",Logistics,Cold Outreach,119369.7,Negotiation,2022-08-22,2023-12-01,Priya Nair,East,Schedule Demo,80,466.0
+DEAL-0389,Chatterjee-Agarwal,Healthcare,Cold Outreach,110500.97,Negotiation,2023-06-26,2023-11-26,Karan Mehta,South,Technical Eval,80,153.0
+DEAL-0050,Mander-Reddy,Healthcare,Cold Outreach,116118.31,Closed Won,2023-04-16,2023-07-31,Deepak Rao,North,Stakeholder Meeting,100,106.0
+DEAL-0119,"Mistry, Sule and Bassi",Retail,Event,135616.13,Closed Won,2022-05-23,2022-06-15,Neha Gupta,North,Schedule Demo,50,23.0
+DEAL-0265,"Rai, Wali and Bassi",Manufacturing,Website,95913.99,Negotiation,2023-01-11,,Neha Gupta,North,Contract Review,40,
+DEAL-0040,"Bassi, Bail and Dutta",FinTech,Referral,231362.78,Negotiation,2022-11-12,2022-12-26,Arjun Pillai,South,,60,44.0
+DEAL-0623,Gill Inc,Real Estate,Inbound,60006.25,Closed Won,2023-04-21,2023-07-15,Arjun Pillai,South,Contract Review,90,85.0
+DEAL-0193,"Bali, Lala and Bhattacharyya",Real Estate,Cold Outreach,201488.77,Negotiation,2022-03-29,2022-05-07,Priya Nair,West,,100,39.0
+DEAL-0007,Gade PLC,Real Estate,Website,246710.79,Closed Lost,2022-05-23,2022-09-16,Priya Nair,North,Technical Eval,90,116.0
+DEAL-0102,Chacko-Chahal,FinTech,Referral,151242.86,Qualified,2022-08-23,2022-09-27,Neha Gupta,East,Send Proposal,80,35.0
+DEAL-0156,"Lad, Pau and Bhatti",Manufacturing,Cold Email,233811.04,Discovery,2023-10-19,,Priya Nair,West,Send Proposal,60,
+DEAL-0453,Trivedi-Rao,Manufacturing,Cold Outreach,32918.97,Negotiation,2022-04-16,2022-08-06,Riya Sharma,East,Technical Eval,30,112.0
+DEAL-0232,Kale-Balan,IT Services,Referral,192545.03,Proposal Sent,2023-12-26,2024-04-15,Aman Verma,North,Contract Review,100,111.0
+DEAL-0200,Venkataraman LLC,Retail,Partner,136481.74,Closed Lost,2023-05-02,2023-06-18,Aman Verma,North,,100,47.0
+DEAL-0529,"Modi, Zacharia and Kant",Logistics,Referral,190858.5881818182,Closed Won,2022-03-13,2022-04-05,Neha Gupta,West,,60,23.0
+DEAL-0146,"Guha, Jaggi and Sankar",Logistics,Cold Outreach,244588.12,Closed Lost,2023-04-25,2023-12-06,Karan Mehta,South,Follow Up Call,30,225.0
+DEAL-0351,"Ben, Ben and Doctor",E-Commerce,Linkedin,99694.79222222224,Discovery,2022-11-20,2022-12-13,Arjun Pillai,North,,80,23.0
+DEAL-0482,Ram-Deshpande,Manufacturing,Inbound,145314.94,Proposal Sent,2022-08-17,2023-03-01,Aman Verma,South,Contract Review,100,196.0
+DEAL-0214,Saxena-Bhatia,Manufacturing,Linkedin,246603.63,Discovery,2023-10-28,2024-01-07,Sonal Joshi,West,Send Proposal,20,71.0
+DEAL-0085,"Subramanian, Reddy and Iyer",IT Services,Referral,246762.98,Closed Won,2022-03-15,2022-05-25,Riya Sharma,South,,50,71.0
+DEAL-0496,Buch Ltd,Retail,Event,155957.04,Closed Lost,2023-04-07,2023-10-21,Aman Verma,South,Send Proposal,90,197.0
+DEAL-0087,Sawhney Inc,Logistics,Cold Outreach,1403694.43,Closed Lost,2023-10-13,2024-02-14,Aman Verma,North,Send Proposal,10,124.0
+DEAL-0358,Sule Group,SaaS,Referral,50505.77,Negotiation,2023-02-10,2023-08-07,Aman Verma,West,Schedule Demo,60,178.0
+DEAL-0297,"Bala, Narain and Sampath",Retail,Cold Outreach,117903.1,Qualified,2022-08-07,2022-11-26,Aman Verma,North,Technical Eval,30,111.0
+DEAL-0438,Kohli-Sekhon,Retail,Inbound,10533.35,Closed Lost,2023-01-14,2023-06-09,Sonal Joshi,West,Contract Review,20,146.0
+DEAL-0042,"Basu, Gera and Raman",SaaS,Partner,24899.6,Qualified,2022-05-04,2022-05-14,Deepak Rao,East,Schedule Demo,80,10.0
+DEAL-0109,"Dua, Dara and Nigam",Real Estate,Partner,145279.72,Proposal Sent,2023-04-08,2023-12-17,Sonal Joshi,East,Technical Eval,30,253.0
+DEAL-0645,"Grover, Nanda and Atwal",Real Estate,Partner,55272.62,Closed Lost,2022-09-02,2022-11-14,Sonal Joshi,West,,80,73.0
+DEAL-0057,"Munshi, Narayan and Kashyap",E-Commerce,Website,31015.06,Qualified,2023-10-06,2024-01-12,Riya Sharma,West,Technical Eval,60,98.0
+DEAL-0512,Sood Ltd,FinTech,Referral,23501.49,Negotiation,2023-06-08,2023-09-10,Priya Nair,South,Technical Eval,50,94.0
+DEAL-0025,Behl and Sons,IT Services,Linkedin,8961.84,Prospecting,2023-12-20,,Neha Gupta,East,,40,
+DEAL-0159,"Sane, Kibe and Kuruvilla",E-Commerce,Inbound,188505.78,Discovery,2022-10-28,,Sonal Joshi,West,,30,
+DEAL-0522,"Sane, Kashyap and Kuruvilla",E-Commerce,Inbound,207087.67,Qualified,2023-06-17,2023-11-12,Arjun Pillai,West,Contract Review,100,148.0
+DEAL-0111,"Anne, Yadav and Bedi",Manufacturing,Cold Outreach,107601.17,Discovery,2022-06-08,,Arjun Pillai,South,Stakeholder Meeting,50,
+DEAL-0083,"Anne, Cheema and Kuruvilla",Manufacturing,Inbound,36522.53,Negotiation,2023-01-12,2024-01-01,Karan Mehta,West,Send Proposal,100,354.0
+DEAL-0052,Chandra Inc,Retail,Referral,118788.33,Qualified,2022-08-05,,Riya Sharma,West,Send Proposal,40,
+DEAL-0219,Mallick LLC,Logistics,Referral,114891.6,Proposal Sent,2022-05-04,2022-10-30,Riya Sharma,South,,60,179.0
+DEAL-0558,Kannan-Mitter,Retail,Partner,155938.62,Closed Lost,2022-01-01,2022-01-18,Priya Nair,West,Pricing Discussion,70,17.0
+DEAL-0450,"Goda, Chana and Bali",SaaS,Cold Email,200021.97,Closed Won,2023-11-30,2024-11-03,Karan Mehta,West,Send Proposal,100,339.0
+DEAL-0637,Chopra-Dey,SaaS,Cold Outreach,195092.06,Negotiation,2023-04-06,2023-07-18,Sonal Joshi,North,Follow Up Call,80,103.0
+DEAL-0327,Nori-Dua,E-Commerce,Linkedin,164224.14,Closed Won,2022-06-11,2022-12-03,Neha Gupta,North,Contract Review,70,175.0
+DEAL-0538,Wable Group,SaaS,Referral,219390.12000000002,Qualified,2022-11-13,2023-03-21,Neha Gupta,South,Follow Up Call,100,128.0
+DEAL-0019,"De, Jani and Kota",FinTech,Website,180648.73,Negotiation,2023-06-02,2023-06-19,Deepak Rao,South,Schedule Demo,60,17.0
+DEAL-0437,Mital Group,FinTech,Linkedin,108360.1825,Closed Won,2022-02-06,2022-04-01,Karan Mehta,West,,100,54.0
+DEAL-0638,Rai-Wable,Logistics,Cold Email,138907.01,Negotiation,2022-09-23,2023-02-25,Riya Sharma,North,Pricing Discussion,20,155.0
+DEAL-0614,Chauhan-Zachariah,E-Commerce,Inbound,170159.51,Qualified,2023-12-14,2024-03-31,Arjun Pillai,East,Technical Eval,50,108.0
+DEAL-0062,"Hayre, Sangha and Jhaveri",E-Commerce,Cold Email,240858.03,Discovery,2023-12-23,,Aman Verma,East,Technical Eval,50,
+DEAL-0513,Naidu LLC,E-Commerce,Cold Outreach,193376.64,Closed Lost,2022-04-29,2022-09-20,Neha Gupta,West,Stakeholder Meeting,60,144.0
+DEAL-0399,Gandhi-Chana,SaaS,Cold Outreach,53951.01,Discovery,2022-04-20,2022-09-19,Sonal Joshi,North,Contract Review,30,152.0
+DEAL-0182,Sen PLC,Manufacturing,Cold Outreach,93090.26,Prospecting,2022-11-28,2023-03-10,Neha Gupta,North,,100,102.0
+DEAL-0517,Rastogi Inc,Healthcare,Cold Outreach,217882.4,Discovery,2022-09-18,2022-11-21,Neha Gupta,East,,20,64.0
+DEAL-0536,Mander PLC,Logistics,Cold Outreach,25193.03,Closed Won,2022-11-04,2023-01-02,Riya Sharma,East,,10,59.0
+DEAL-0328,"Wason, Mital and Barad",Manufacturing,Inbound,91122.4309090909,Proposal Sent,2022-02-28,2022-06-19,Riya Sharma,North,Schedule Demo,100,111.0
+DEAL-0435,Sama and Sons,Healthcare,Cold Outreach,115849.56,Proposal Sent,2022-02-06,2022-07-12,Arjun Pillai,South,Follow Up Call,100,156.0
+DEAL-0405,"Hari, Prabhakar and Khurana",Manufacturing,Cold Outreach,199786.18,Discovery,2022-04-08,2022-10-21,Karan Mehta,North,Stakeholder Meeting,40,196.0
+DEAL-0383,"Mukhopadhyay, Ganesan and Chopra",FinTech,Inbound,236334.46,Qualified,2023-03-25,2023-08-03,Arjun Pillai,West,Pricing Discussion,90,131.0
+DEAL-0341,"Srinivasan, Kadakia and Hayre",Real Estate,Linkedin,8836.23,Prospecting,2023-08-16,2024-01-25,Sonal Joshi,North,Schedule Demo,20,162.0
+DEAL-0307,Mahajan-Pant,Healthcare,Cold Email,157967.10749999998,Proposal Sent,2023-03-10,2023-04-05,Karan Mehta,East,Technical Eval,10,26.0
+DEAL-0429,Trivedi-Bhalla,Real Estate,Partner,230534.15,Closed Won,2023-03-14,2023-10-09,Arjun Pillai,North,,90,209.0
+DEAL-0507,Kapoor PLC,Manufacturing,Linkedin,37509.26,Prospecting,2023-03-21,2023-06-28,Sonal Joshi,North,Send Proposal,10,99.0
+DEAL-0361,Bose PLC,Logistics,Inbound,23009.14,Negotiation,2023-10-23,,Riya Sharma,South,Stakeholder Meeting,30,
+DEAL-0216,"Radhakrishnan, Bahl and Borah",Manufacturing,Event,38180.07,Closed Won,2023-03-25,2023-07-18,Priya Nair,East,,70,115.0
+DEAL-0635,"Mammen, Menon and Grover",FinTech,Referral,64433.08,Closed Won,2022-12-06,,Aman Verma,South,Follow Up Call,100,
+DEAL-0394,"Mangat, Khare and Gole",Healthcare,Website,83188.73,Proposal Sent,2023-11-11,2024-04-22,Riya Sharma,West,Schedule Demo,90,163.0
+DEAL-0175,Merchant and Sons,Logistics,Event,103204.15,Proposal Sent,2022-06-06,,Sonal Joshi,West,Technical Eval,60,
+DEAL-0406,Munshi-Radhakrishnan,IT Services,Inbound,39098.89,Closed Won,2022-12-18,,Riya Sharma,North,Stakeholder Meeting,30,
+DEAL-0164,Kothari Ltd,FinTech,Website,162121.54,Discovery,2022-09-27,2023-03-22,Priya Nair,West,Follow Up Call,90,176.0
+DEAL-0285,"Srivastava, Srinivasan and Manda",Real Estate,Event,83457.15,Closed Won,2023-07-18,2023-08-30,Neha Gupta,North,Pricing Discussion,40,43.0
+DEAL-0276,Dugal-Sarna,Logistics,Referral,187985.41,Qualified,2023-05-04,2023-06-02,Deepak Rao,South,Schedule Demo,70,29.0
+DEAL-0105,"Palla, Arya and Kala",Logistics,Linkedin,17582.02,Discovery,2023-02-15,2023-11-07,Aman Verma,East,Contract Review,70,265.0
+DEAL-0115,"Bir, Mody and Malhotra",Retail,Referral,177914.93,Prospecting,2023-10-21,2024-01-03,Karan Mehta,West,Contract Review,100,74.0
+DEAL-0624,Badal-Babu,IT Services,Referral,229384.42,Closed Won,2023-11-15,2024-04-27,Priya Nair,East,Follow Up Call,30,164.0
+DEAL-0209,Deshpande Group,Logistics,Partner,144759.6125,Closed Won,2023-12-08,2024-04-21,Priya Nair,South,,100,135.0
+DEAL-0261,"Dhillon, Cheema and Lala",FinTech,Cold Outreach,107044.43,Prospecting,2023-02-25,2023-06-23,Riya Sharma,South,,80,118.0
+DEAL-0093,Issac Group,EdTech,Cold Outreach,83039.86,Closed Won,2023-01-24,2023-06-23,Neha Gupta,South,Stakeholder Meeting,60,150.0
+DEAL-0008,Dada-Dave,Retail,Linkedin,178837.42,Proposal Sent,2022-04-15,,Deepak Rao,South,,30,
+DEAL-0526,"Raj, Guha and Goyal",Retail,Cold Outreach,224067.89,Proposal Sent,2022-07-21,2022-11-04,Aman Verma,West,Follow Up Call,100,106.0
+DEAL-0378,Viswanathan-Iyer,Manufacturing,Linkedin,172902.42,Discovery,2022-03-12,2022-05-19,Neha Gupta,South,Contract Review,100,68.0
+DEAL-0519,"Purohit, Mistry and Misra",IT Services,Website,160535.93,Qualified,2023-12-27,2024-10-02,Arjun Pillai,North,Schedule Demo,40,280.0
+DEAL-0400,Bhatnagar-Shankar,Retail,Event,49082.17,Proposal Sent,2023-07-21,2023-10-10,Riya Sharma,North,Schedule Demo,20,81.0
+DEAL-0362,"Bal, Khatri and Korpal",Retail,Cold Outreach,98100.0,Proposal Sent,2022-04-11,2023-02-24,Karan Mehta,South,Follow Up Call,80,319.0
+DEAL-0205,Babu Inc,EdTech,Linkedin,103519.63666666666,Prospecting,2023-09-14,2024-01-31,Arjun Pillai,South,Technical Eval,60,139.0
+DEAL-0141,Srinivas LLC,FinTech,Inbound,17437.53,Qualified,2023-03-09,,Aman Verma,North,Pricing Discussion,100,
+DEAL-0029,Khare and Sons,SaaS,Website,131935.02,Proposal Sent,2023-04-05,2023-06-08,Karan Mehta,West,Pricing Discussion,100,64.0
+DEAL-0044,Bhatti-D’Alia,EdTech,Inbound,56648.05,Negotiation,2022-04-10,2022-06-24,Aman Verma,West,Contract Review,80,75.0
+DEAL-0043,Uppal-Gulati,EdTech,Partner,193900.48,Closed Won,2023-01-25,2023-03-31,Neha Gupta,North,Contract Review,50,65.0
+DEAL-0074,Jaggi-Chaudhry,EdTech,Inbound,7003.46,Discovery,2023-10-13,2024-02-18,Deepak Rao,East,Technical Eval,20,128.0
+DEAL-0168,Misra-Wason,IT Services,Referral,184124.21,Closed Won,2022-04-19,2022-08-27,Priya Nair,West,Follow Up Call,70,130.0
+DEAL-0210,"Deshmukh, Chander and Sura",IT Services,Linkedin,5738.79,Closed Lost,2022-07-25,2022-11-26,Aman Verma,East,Contract Review,30,124.0
+DEAL-0607,Bala-Kaur,FinTech,Linkedin,87077.7,Prospecting,2023-11-03,2024-03-31,Karan Mehta,North,Contract Review,40,149.0
+DEAL-0067,Bassi Ltd,E-Commerce,Inbound,126855.72,Closed Lost,2022-10-24,2023-01-11,Neha Gupta,West,Contract Review,90,79.0
+DEAL-0012,Bhardwaj LLC,Logistics,Linkedin,93565.58,Closed Lost,2023-08-28,2024-01-02,Riya Sharma,North,Follow Up Call,100,127.0
+DEAL-0494,"Pathak, Ahuja and Garg",Real Estate,Website,173837.73,Closed Won,2023-02-14,2023-07-30,Deepak Rao,East,,20,166.0
+DEAL-0643,Sura-Kunda,IT Services,Referral,190937.64,Prospecting,2023-05-12,2023-10-04,Deepak Rao,West,,100,145.0
+DEAL-0179,"Anne, Chatterjee and Divan",Retail,Website,114450.2,Closed Won,2023-06-28,2023-08-07,Sonal Joshi,North,,100,40.0
+DEAL-0266,Mammen PLC,Retail,Referral,208204.54,Closed Won,2023-10-24,2024-02-02,Sonal Joshi,South,Technical Eval,20,101.0
+DEAL-0356,Bir-Prakash,Real Estate,Website,115384.8,Proposal Sent,2022-09-02,2022-11-07,Neha Gupta,South,Send Proposal,70,66.0
+DEAL-0501,Vohra LLC,SaaS,Referral,145320.22,Negotiation,2022-02-07,,Karan Mehta,West,Technical Eval,10,
+DEAL-0290,"Walla, Dutta and Prakash",Real Estate,Inbound,148087.82,Qualified,2022-01-16,2022-11-04,Aman Verma,West,Technical Eval,50,292.0
+DEAL-0418,Kaur Inc,EdTech,Inbound,1419016.85,Proposal Sent,2022-11-10,2023-03-15,Neha Gupta,North,Schedule Demo,70,125.0
+DEAL-0178,Pradhan PLC,Manufacturing,Inbound,6673.38,Closed Won,2023-07-07,2023-10-28,Sonal Joshi,East,,60,113.0
+DEAL-0454,Parsa LLC,Manufacturing,Partner,124923.57,Qualified,2022-12-29,2023-04-19,Deepak Rao,West,Send Proposal,50,111.0
+DEAL-0532,Memon Inc,Healthcare,Cold Outreach,248945.05,Negotiation,2023-01-10,2024-03-15,Riya Sharma,South,Stakeholder Meeting,20,430.0
+DEAL-0084,"Bansal, Bajaj and Devi",Real Estate,Inbound,126414.69384615385,Negotiation,2023-10-26,2024-02-17,Riya Sharma,South,Pricing Discussion,100,114.0
+DEAL-0568,"Pal, Pillay and Sarraf",Logistics,Event,219577.66,Proposal Sent,2023-03-29,2023-05-16,Karan Mehta,North,,70,48.0
+DEAL-0353,"Deshmukh, Mand and Raj",Retail,Linkedin,155396.98,Qualified,2022-07-29,2022-08-24,Arjun Pillai,North,Send Proposal,50,26.0
+DEAL-0458,Yohannan-Bobal,E-Commerce,Website,47269.24,Qualified,2022-06-08,2022-10-31,Priya Nair,South,Stakeholder Meeting,100,145.0
+DEAL-0080,Sura-Sen,FinTech,Cold Outreach,99655.46,Proposal Sent,2023-11-18,2024-04-28,Priya Nair,North,Send Proposal,70,162.0
+DEAL-0024,"Chaudhuri, Maharaj and Lalla",Real Estate,Partner,131753.2,Negotiation,2023-10-28,2024-04-24,Riya Sharma,East,Follow Up Call,50,179.0
+DEAL-0016,"Sarkar, Korpal and Basak",E-Commerce,Inbound,119514.43,Closed Won,2022-04-06,2022-09-02,Sonal Joshi,North,Follow Up Call,40,149.0
+DEAL-0595,"Sankar, Jaggi and Dhaliwal",EdTech,Website,63466.16,Closed Lost,2022-03-16,2022-06-19,Deepak Rao,South,Stakeholder Meeting,60,95.0
+DEAL-0235,Sidhu Ltd,E-Commerce,Linkedin,222815.13,Closed Won,2022-08-23,2022-11-22,Riya Sharma,North,,50,91.0
+DEAL-0650,"Virk, Shere and Brahmbhatt",E-Commerce,Inbound,212148.54,Closed Won,2022-08-29,2022-12-31,Neha Gupta,North,Follow Up Call,90,124.0
+DEAL-0272,Dugar-Brar,Logistics,Inbound,58169.05,Closed Lost,2022-09-12,2023-01-27,Sonal Joshi,North,,70,137.0
+DEAL-0495,Chana and Sons,E-Commerce,Event,154514.14,Discovery,2023-11-27,2024-11-03,Priya Nair,North,Stakeholder Meeting,50,342.0
+DEAL-0287,Walia-Bandi,Manufacturing,Linkedin,123160.23636363637,Prospecting,2022-02-21,2022-05-11,Priya Nair,West,Contract Review,80,79.0
+DEAL-0329,"Mukherjee, Dhingra and Saraf",FinTech,Event,97406.54,Closed Lost,2023-05-06,2023-07-16,Aman Verma,South,Technical Eval,90,71.0
+DEAL-0034,"Thaman, Mohan and Bhardwaj",EdTech,Website,239306.15,Proposal Sent,2023-12-16,2024-05-12,Deepak Rao,West,Schedule Demo,80,148.0
+DEAL-0355,"Kar, Sarna and Jayaraman",Healthcare,Cold Outreach,160360.12,Closed Lost,2022-11-18,2022-12-25,Deepak Rao,West,Follow Up Call,90,37.0
+DEAL-0010,"Bains, Kanda and Agate",Manufacturing,Inbound,43588.79,Qualified,2023-07-13,2023-12-19,Deepak Rao,South,Follow Up Call,20,159.0
+DEAL-0023,Nair Ltd,Logistics,Referral,190858.5881818182,Prospecting,2022-07-23,2022-11-10,Neha Gupta,East,Follow Up Call,80,110.0
+DEAL-0364,Barman PLC,Real Estate,Linkedin,93371.56,Qualified,2022-11-20,2023-03-23,Riya Sharma,West,Stakeholder Meeting,50,123.0
+DEAL-0478,Jha-Muni,Real Estate,Cold Email,13010.3,Closed Lost,2023-04-17,2023-06-05,Aman Verma,East,Send Proposal,80,49.0
+DEAL-0510,"Baria, Baral and Lanka",SaaS,Cold Outreach,39832.05,Negotiation,2023-03-23,2023-04-23,Deepak Rao,West,,60,31.0
+DEAL-0333,Kale-Badal,FinTech,Website,244445.66,Qualified,2023-02-09,2023-09-17,Arjun Pillai,North,Pricing Discussion,60,220.0
+DEAL-0334,Nazareth LLC,FinTech,Inbound,224223.85,Negotiation,2022-03-11,,Arjun Pillai,South,Contract Review,10,
+DEAL-0335,"Borah, Dalal and Sood",FinTech,Inbound,61292.79,Proposal Sent,2023-11-23,2024-01-04,Sonal Joshi,South,Stakeholder Meeting,70,42.0
+DEAL-0579,Bora PLC,Manufacturing,Referral,120398.58,Closed Won,2023-11-11,2023-12-27,Arjun Pillai,North,,20,46.0
+DEAL-0260,Saran LLC,EdTech,Cold Outreach,142255.54100000003,Prospecting,2023-03-10,2023-08-17,Aman Verma,South,,60,160.0
+DEAL-0204,"Vora, Khosla and Varty",E-Commerce,Referral,114143.26,Qualified,2023-06-25,2023-10-19,Deepak Rao,West,,30,116.0
+DEAL-0197,Dyal-Vig,Retail,Referral,93637.29,Proposal Sent,2022-05-09,2022-07-27,Priya Nair,West,Schedule Demo,80,79.0
+DEAL-0586,Kuruvilla Inc,Healthcare,Inbound,161931.64,Prospecting,2022-11-14,2023-04-02,Deepak Rao,West,Technical Eval,50,139.0
+DEAL-0311,"Narasimhan, Bhasin and Bansal",Logistics,Inbound,166524.66,Discovery,2023-05-14,2023-06-02,Aman Verma,South,Pricing Discussion,70,19.0
+DEAL-0397,Soman-Ramanathan,Retail,Cold Outreach,73673.54,Closed Won,2022-09-28,2023-02-08,Neha Gupta,South,,100,133.0
+DEAL-0094,Varughese Inc,IT Services,Event,156042.62,Negotiation,2022-10-04,2023-02-07,Neha Gupta,North,Pricing Discussion,20,126.0
+DEAL-0571,Sheth Group,IT Services,Cold Email,197031.39,Prospecting,2022-08-07,2022-10-16,Aman Verma,West,Contract Review,10,70.0
+DEAL-0301,"Badal, Grewal and Bhatnagar",EdTech,Referral,239523.04,Proposal Sent,2023-01-24,2023-07-16,Aman Verma,West,Stakeholder Meeting,90,173.0
+DEAL-0325,Dey Inc,SaaS,Linkedin,207875.21,Qualified,2023-05-30,2023-07-04,Priya Nair,West,Schedule Demo,20,35.0
+DEAL-0185,"Sahni, Taneja and Balay",IT Services,Linkedin,231160.97,Proposal Sent,2022-04-25,2022-09-22,Arjun Pillai,West,Stakeholder Meeting,90,150.0
+DEAL-0559,Muni and Sons,Real Estate,Referral,58224.95,Closed Lost,2022-08-11,2022-12-13,Sonal Joshi,North,Technical Eval,70,124.0
+DEAL-0292,Gill-Varma,Retail,Linkedin,61354.56,Closed Won,2022-08-31,2023-07-01,Deepak Rao,South,,60,304.0
+DEAL-0154,Chhabra PLC,E-Commerce,Cold Outreach,14138.07,Closed Won,2023-07-04,2023-11-17,Neha Gupta,North,,80,136.0
+DEAL-0076,Bir-Warrior,IT Services,Linkedin,94615.52,Proposal Sent,2022-06-16,2022-10-30,Karan Mehta,North,Pricing Discussion,10,136.0
+DEAL-0573,"Dani, Lanka and Bansal",Healthcare,Linkedin,64065.03,Qualified,2023-04-30,2023-10-20,Deepak Rao,South,Contract Review,60,173.0
+DEAL-0069,"Sengupta, Mukhopadhyay and Hayre",Healthcare,Referral,117021.51,Closed Lost,2022-08-27,2023-03-01,Arjun Pillai,East,Follow Up Call,40,186.0
+DEAL-0546,Chahal-Sama,Logistics,Inbound,34545.48,Closed Won,2022-05-11,2022-09-30,Neha Gupta,North,Contract Review,10,142.0
+DEAL-0189,Mangat-Gour,EdTech,Referral,239553.33,Discovery,2022-01-03,2022-11-05,Karan Mehta,North,Technical Eval,10,306.0
+DEAL-0237,Kala Ltd,Manufacturing,Cold Outreach,114378.06,Closed Won,2022-02-02,2022-02-21,Arjun Pillai,North,Contract Review,30,19.0
+DEAL-0089,Basu Ltd,E-Commerce,Inbound,123537.846,Proposal Sent,2023-07-01,2023-10-22,Karan Mehta,North,,40,113.0
+DEAL-0587,"Goel, Krish and Chatterjee",SaaS,Referral,42406.71,Qualified,2022-08-19,2023-01-05,Sonal Joshi,South,Send Proposal,50,139.0
+DEAL-0118,"Hayre, Wagle and Kala",Retail,Linkedin,239387.95,Closed Won,2022-09-29,2023-05-03,Karan Mehta,North,Contract Review,40,216.0
+DEAL-0126,"Iyengar, Oommen and Loyal",EdTech,Partner,177700.73,Closed Won,2023-08-21,2023-12-22,Karan Mehta,South,Send Proposal,50,123.0
+DEAL-0569,Anne-Konda,Retail,Event,153697.08,Closed Won,2023-03-29,2023-09-10,Sonal Joshi,South,Technical Eval,100,165.0
+DEAL-0239,"Mangat, Char and Bava",Real Estate,Inbound,15838.0,Prospecting,2022-03-14,2022-06-05,Arjun Pillai,North,,10,83.0
+DEAL-0001,"Dave, Lalla and Dani",Real Estate,Inbound,154909.91,Closed Won,2023-10-17,2024-01-16,Aman Verma,North,Stakeholder Meeting,70,91.0
+DEAL-0240,Tailor-Sahota,EdTech,Partner,137241.15,Closed Won,2023-06-11,2023-07-14,Sonal Joshi,West,,100,33.0
+DEAL-0282,Vaidya LLC,E-Commerce,Referral,93112.93,Closed Lost,2022-09-13,2022-10-26,Sonal Joshi,North,Send Proposal,20,43.0
+DEAL-0551,"Kalla, Radhakrishnan and Dhingra",SaaS,Referral,78317.56,Discovery,2023-11-25,2023-12-28,Neha Gupta,South,Technical Eval,100,33.0
+DEAL-0279,Batra-Pingle,FinTech,Cold Email,63636.08,Closed Lost,2022-07-07,2022-12-24,Arjun Pillai,North,Follow Up Call,60,170.0
+DEAL-0117,Bhatti-Butala,Logistics,Referral,122200.89,Proposal Sent,2022-05-27,,Sonal Joshi,East,Technical Eval,100,
+DEAL-0480,"Vig, Deol and Gola",Healthcare,Linkedin,143584.36,Discovery,2022-09-11,2022-12-08,Aman Verma,North,Contract Review,50,88.0
+DEAL-0540,Saraf-Behl,Healthcare,Referral,110161.58,Closed Won,2023-02-23,2023-06-20,Sonal Joshi,South,Stakeholder Meeting,40,117.0
+DEAL-0275,De Ltd,Manufacturing,Cold Outreach,51555.81,Prospecting,2023-04-07,2023-12-10,Aman Verma,West,Schedule Demo,30,247.0
+DEAL-0440,Kade-Sen,Retail,Inbound,232831.0,Closed Won,2023-07-20,2023-10-28,Arjun Pillai,North,,100,100.0
+DEAL-0145,Sangha LLC,Logistics,Referral,38679.42,Closed Lost,2023-03-09,2024-01-30,Deepak Rao,East,Schedule Demo,50,327.0
+DEAL-0612,Khare-Bhatnagar,Healthcare,Linkedin,45885.94,Closed Won,2022-08-13,2022-11-25,Neha Gupta,West,Follow Up Call,60,104.0
+DEAL-0553,Narain Ltd,Logistics,Website,162186.16,Closed Lost,2023-09-23,2023-12-31,Sonal Joshi,North,,40,99.0
+DEAL-0628,Gour-Guha,Logistics,Linkedin,131364.66,Qualified,2022-11-21,2023-03-22,Arjun Pillai,East,Schedule Demo,60,121.0
+DEAL-0533,Ganesh-Kothari,Retail,Linkedin,221126.2,Closed Lost,2022-11-18,2023-03-22,Neha Gupta,South,,50,124.0
+DEAL-0269,"Dass, Guha and Kurian",Logistics,Inbound,194371.75083333332,Qualified,2023-02-17,2023-06-08,Sonal Joshi,North,Schedule Demo,20,111.0
+DEAL-0463,Dhillon Ltd,E-Commerce,Cold Outreach,39632.84,Qualified,2022-01-26,2022-03-21,Aman Verma,West,,40,54.0
+DEAL-0262,Chauhan Ltd,Healthcare,Cold Outreach,100162.67,Discovery,2023-04-24,2023-08-28,Karan Mehta,East,Pricing Discussion,10,126.0
+DEAL-0196,"Iyer, Sami and Nagar",Healthcare,Linkedin,133749.13,Closed Lost,2023-06-30,2023-09-22,Sonal Joshi,West,Follow Up Call,90,84.0
+DEAL-0108,"Mane, Suri and Gola",Manufacturing,Cold Outreach,206307.02,Prospecting,2022-08-05,2022-09-16,Karan Mehta,South,Contract Review,40,42.0
+DEAL-0598,"Modi, Sankaran and Mannan",Retail,Referral,126060.64444444445,Closed Won,2023-10-07,2024-12-02,Priya Nair,West,Pricing Discussion,80,422.0
+DEAL-0518,"Varkey, Sharaf and Tank",Manufacturing,Website,27819.71,Closed Won,2022-02-15,2022-06-29,Neha Gupta,South,Follow Up Call,10,134.0
+DEAL-0322,Bhakta LLC,EdTech,Linkedin,24359.71,Closed Lost,2022-02-21,,Riya Sharma,East,Stakeholder Meeting,50,
+DEAL-0101,Nair LLC,Real Estate,Referral,218664.28,Proposal Sent,2022-02-27,2022-07-21,Riya Sharma,South,,70,144.0
+DEAL-0576,Thakkar Ltd,Healthcare,Cold Outreach,82535.8,Closed Won,2022-03-28,2022-12-08,Aman Verma,South,Technical Eval,100,255.0
+DEAL-0621,Kant-Soman,EdTech,Partner,164884.81,Discovery,2023-04-13,2023-07-14,Priya Nair,West,,30,92.0
+DEAL-0180,Randhawa PLC,Healthcare,Cold Outreach,85758.2,Closed Lost,2022-01-01,2022-05-29,Sonal Joshi,North,Send Proposal,100,148.0
+DEAL-0305,"Varkey, Butala and Sani",FinTech,Linkedin,108360.1825,Discovery,2023-04-11,2023-11-09,Priya Nair,West,Technical Eval,100,212.0
+DEAL-0552,Kumar PLC,EdTech,Cold Outreach,204275.14,Closed Won,2022-06-28,2022-09-02,Karan Mehta,North,Pricing Discussion,10,66.0
+DEAL-0125,Subramanian-Sidhu,FinTech,Inbound,245653.77,Discovery,2023-03-15,2023-08-05,Sonal Joshi,South,Send Proposal,20,143.0
+DEAL-0549,"Iyengar, Pandit and Prabhakar",Retail,Cold Outreach,129010.22294117647,Closed Won,2023-12-11,2024-03-16,Arjun Pillai,West,,30,96.0
+DEAL-0602,Srinivasan-Krishna,Manufacturing,Inbound,89942.76,Closed Lost,2023-01-29,2023-06-05,Aman Verma,North,,70,127.0
+DEAL-0426,Karpe Group,IT Services,Cold Email,171491.09,Discovery,2023-03-29,2023-05-07,Karan Mehta,West,Send Proposal,10,39.0
+DEAL-0184,Bala-Gala,E-Commerce,Inbound,44130.62,Closed Won,2022-01-20,2022-02-12,Deepak Rao,North,Send Proposal,80,23.0
+DEAL-0641,Taneja-Bhardwaj,Logistics,Partner,160805.75,Prospecting,2022-10-11,2023-01-24,Deepak Rao,West,Send Proposal,100,105.0
+DEAL-0143,Tandon PLC,Healthcare,Partner,29548.5,Proposal Sent,2023-01-30,2023-07-19,Riya Sharma,South,Send Proposal,60,170.0
+DEAL-0142,"Bakshi, Mangal and Hora",Real Estate,Inbound,60289.55,Closed Lost,2022-03-07,2022-05-23,Aman Verma,North,Send Proposal,90,77.0
+DEAL-0391,Sem-Menon,SaaS,Inbound,78606.64,Closed Lost,2023-11-15,2024-05-13,Neha Gupta,West,,20,180.0
+DEAL-0321,"Zacharia, Bera and Sidhu",Retail,Partner,91838.07,Negotiation,2022-02-28,2022-05-20,Aman Verma,West,Follow Up Call,50,81.0
+DEAL-0020,"Bahri, Soman and Chokshi",E-Commerce,Cold Outreach,105644.8,Discovery,2023-09-09,2023-12-31,Aman Verma,South,,70,113.0
+DEAL-0173,"Chandran, Sarin and Buch",Logistics,Inbound,161487.82,Closed Won,2023-09-16,2024-01-06,Priya Nair,East,Follow Up Call,100,112.0
+DEAL-0384,"Krishnamurthy, Dave and Iyengar",Retail,Inbound,126471.6,Closed Lost,2023-11-07,,Arjun Pillai,South,Send Proposal,70,
+DEAL-0313,Savant LLC,Manufacturing,Inbound,105777.93,Closed Won,2022-07-14,,Aman Verma,North,Send Proposal,10,
+DEAL-0013,"Tailor, Dada and Khurana",EdTech,Referral,246357.47,Prospecting,2023-03-09,2023-03-20,Riya Sharma,South,Send Proposal,10,11.0
+DEAL-0306,Ahuja PLC,FinTech,Inbound,18780.27,Closed Won,2022-10-20,2023-04-04,Sonal Joshi,West,Send Proposal,80,166.0
+DEAL-0026,Wadhwa-Narula,SaaS,Cold Email,149007.57,Closed Lost,2023-07-13,2023-08-26,Sonal Joshi,West,Send Proposal,20,44.0
+DEAL-0516,Sur PLC,SaaS,Inbound,124570.9,Proposal Sent,2022-07-14,2022-10-24,Neha Gupta,South,,70,102.0
+DEAL-0170,Gokhale-Sama,Real Estate,Referral,117403.19909090908,Prospecting,2022-02-11,2022-08-12,Aman Verma,West,Pricing Discussion,30,182.0
+DEAL-0564,"Mitter, Anne and Wali",IT Services,Cold Outreach,65800.92,Negotiation,2023-09-14,2023-10-29,Priya Nair,East,,80,45.0
+DEAL-0409,Khosla-Apte,Real Estate,Event,115021.35,Discovery,2023-10-12,,Deepak Rao,West,,20,
+DEAL-0246,"Biswas, Khare and Jha",SaaS,Inbound,219683.29,Proposal Sent,2023-07-07,2023-10-20,Priya Nair,East,Schedule Demo,60,105.0
+DEAL-0299,"Palla, Misra and Shenoy",Healthcare,Partner,22945.96,Closed Won,2022-03-02,2022-07-06,Arjun Pillai,East,Contract Review,30,126.0
+DEAL-0432,"Thaker, Divan and Goda",E-Commerce,Cold Email,89051.34,Closed Lost,2022-04-25,,Neha Gupta,South,Send Proposal,70,
+DEAL-0155,Munshi LLC,E-Commerce,Website,107381.82,Qualified,2022-10-01,2023-03-13,Deepak Rao,East,Follow Up Call,90,163.0
+DEAL-0127,"Narayanan, Kari and Setty",E-Commerce,Partner,124805.75,Negotiation,2023-02-13,2023-07-23,Arjun Pillai,North,Send Proposal,70,160.0
+DEAL-0469,Barad-Bora,Retail,Referral,50839.15,Closed Won,2022-01-10,2023-03-04,Deepak Rao,West,Follow Up Call,60,418.0
+DEAL-0342,"Gola, Apte and Jaggi",FinTech,Cold Outreach,40326.93,Closed Won,2023-09-01,,Aman Verma,North,Schedule Demo,10,
+DEAL-0288,"Prakash, Sheth and Roy",Logistics,Partner,186606.83,Proposal Sent,2023-10-30,2024-01-13,Neha Gupta,West,Stakeholder Meeting,20,75.0
+DEAL-0433,Lala Inc,FinTech,Cold Email,132673.13,Discovery,2022-03-19,2022-05-22,Neha Gupta,West,Send Proposal,30,64.0
+DEAL-0174,Kapur Ltd,IT Services,Website,109787.3,Qualified,2022-07-23,2022-12-20,Arjun Pillai,East,Pricing Discussion,60,150.0
+DEAL-0354,Mital PLC,Healthcare,Referral,242385.53,Closed Won,2023-11-17,2024-02-27,Sonal Joshi,South,Follow Up Call,20,102.0
+DEAL-0058,Bhasin-Bala,SaaS,Inbound,35017.87,Qualified,2023-09-26,2024-03-23,Neha Gupta,East,Pricing Discussion,70,179.0
+DEAL-0471,"Majumdar, Thaman and Master",Logistics,Inbound,238201.28,Negotiation,2023-12-20,2024-06-07,Riya Sharma,East,Technical Eval,50,170.0
+DEAL-0223,Wable-Seth,EdTech,Cold Email,7415.81,Closed Won,2022-12-13,2023-05-23,Karan Mehta,North,,30,161.0
+DEAL-0281,Brar-Madan,IT Services,Inbound,163936.73,Negotiation,2023-04-19,2023-05-07,Arjun Pillai,West,Follow Up Call,70,18.0
+DEAL-0018,"Bumb, Garg and Mutti",Healthcare,Inbound,21108.29,Negotiation,2022-08-27,2022-11-14,Sonal Joshi,North,Schedule Demo,50,79.0
+DEAL-0487,"Dass, Puri and Aggarwal",EdTech,Website,185317.23,Prospecting,2022-12-03,2023-04-20,Priya Nair,West,Contract Review,70,138.0
+DEAL-0323,Bhatti PLC,Healthcare,Partner,117454.45,Discovery,2023-08-22,2023-12-23,Aman Verma,West,Stakeholder Meeting,50,123.0
+DEAL-0468,Arora and Sons,Logistics,Referral,45882.05,Closed Lost,2022-09-12,2023-01-14,Sonal Joshi,North,Stakeholder Meeting,10,124.0
+DEAL-0191,Sane-Jain,Real Estate,Inbound,96538.09,Closed Lost,2023-04-08,2024-02-01,Riya Sharma,West,Pricing Discussion,10,299.0
+DEAL-0613,Kara Ltd,SaaS,Partner,1659993.43,Discovery,2022-06-30,2022-10-20,Sonal Joshi,North,,90,112.0
+DEAL-0392,"Devan, Bala and Purohit",SaaS,Partner,175346.61,Qualified,2023-07-22,2023-11-17,Riya Sharma,North,Contract Review,70,118.0
+DEAL-0095,"Goel, Lata and Dhingra",SaaS,Partner,150462.54,Closed Won,2023-10-18,2023-12-31,Sonal Joshi,East,Send Proposal,10,74.0
+DEAL-0181,"Gade, Iyengar and Gill",Real Estate,Cold Outreach,145354.95,Closed Won,2023-06-09,2023-09-29,Deepak Rao,North,Pricing Discussion,30,112.0
+DEAL-0302,Arora Group,IT Services,Inbound,210571.78,Negotiation,2022-01-03,2022-02-09,Arjun Pillai,West,Technical Eval,20,37.0
+DEAL-0425,Vasa-Rattan,Real Estate,Referral,96659.29,Qualified,2022-06-15,2022-08-19,Arjun Pillai,West,Pricing Discussion,80,65.0
+DEAL-0508,"Baral, Rau and Srinivas",E-Commerce,Cold Email,983145.07,Closed Won,2022-12-20,2023-06-15,Deepak Rao,West,Contract Review,80,177.0
+DEAL-0452,Ghosh-Madan,FinTech,Cold Email,94619.29,Closed Won,2023-11-14,2024-01-25,Riya Sharma,West,Send Proposal,10,72.0
+DEAL-0449,Maharaj-Pant,Real Estate,Cold Outreach,73194.48,Qualified,2022-08-04,2023-01-19,Sonal Joshi,South,Schedule Demo,100,168.0
+DEAL-0427,Bera Inc,Manufacturing,Cold Outreach,41932.51,Closed Lost,2023-07-19,2023-08-26,Karan Mehta,West,Follow Up Call,100,38.0
+DEAL-0006,"Goda, Rastogi and Bandi",Real Estate,Inbound,203575.74,Prospecting,2022-08-17,2022-11-19,Sonal Joshi,North,,20,94.0
+DEAL-0046,"Pau, Atwal and Bhatia",Real Estate,Partner,282250.44,Prospecting,2022-12-19,2023-01-27,Sonal Joshi,North,Stakeholder Meeting,20,39.0
+DEAL-0396,Hegde-Saxena,Manufacturing,Cold Email,196583.72,Negotiation,2022-05-18,2022-07-21,Neha Gupta,West,Technical Eval,90,64.0
+DEAL-0523,"Saraf, Savant and Bahri",SaaS,Cold Outreach,84101.96,Negotiation,2023-07-06,2023-11-27,Priya Nair,North,Pricing Discussion,80,144.0
+DEAL-0172,Babu Inc,Retail,Inbound,52324.52,Closed Lost,2023-04-06,2023-10-18,Riya Sharma,South,,40,195.0
+DEAL-0049,"Badami, Basak and Venkataraman",SaaS,Website,202800.58,Closed Won,2022-02-14,2022-05-14,Neha Gupta,East,Pricing Discussion,50,89.0
+DEAL-0525,Raj Group,IT Services,Referral,7805.08,Qualified,2023-11-18,2024-04-05,Aman Verma,West,Technical Eval,80,139.0
+DEAL-0636,Suresh-Samra,Retail,Inbound,243105.15,Closed Lost,2023-02-05,,Deepak Rao,East,Stakeholder Meeting,50,
+DEAL-0004,Oza-Mallick,Healthcare,Cold Outreach,114564.49333333335,Closed Won,2022-09-10,2022-11-27,Arjun Pillai,West,Follow Up Call,20,78.0
+DEAL-0410,Date PLC,Logistics,Referral,147649.78,Proposal Sent,2022-09-28,2023-03-01,Aman Verma,West,,70,154.0
+DEAL-0640,"Balasubramanian, Sampath and Bhattacharyya",EdTech,Referral,10858.01,Qualified,2023-10-15,2024-02-17,Aman Verma,North,Stakeholder Meeting,10,125.0
+DEAL-0284,Pai PLC,IT Services,Linkedin,181991.33,Proposal Sent,2023-03-30,2023-07-24,Aman Verma,North,Technical Eval,100,116.0
+DEAL-0286,Seth Group,Healthcare,Linkedin,81665.89,Prospecting,2022-04-11,2022-07-23,Deepak Rao,North,Pricing Discussion,30,103.0
+DEAL-0570,"Subramanian, Bera and Mishra",Manufacturing,Cold Outreach,100979.0,Closed Lost,2023-11-23,2023-12-31,Neha Gupta,North,Schedule Demo,20,38.0
+DEAL-0226,Dhar Group,Logistics,Linkedin,209531.29,Negotiation,2023-07-22,,Deepak Rao,South,Pricing Discussion,60,
+DEAL-0545,Chadha Inc,E-Commerce,Referral,6975.33,Negotiation,2023-07-22,2023-08-27,Priya Nair,East,,90,36.0
+DEAL-0264,"Baria, Chandra and Om",E-Commerce,Inbound,123537.846,Qualified,2023-11-21,2024-04-02,Neha Gupta,South,,40,133.0
+DEAL-0051,Batta PLC,Retail,Partner,43729.71,Closed Won,2023-04-07,2023-09-02,Arjun Pillai,West,Follow Up Call,10,148.0
+DEAL-0365,"Rege, Kunda and Sridhar",Manufacturing,Cold Outreach,110844.22111111112,Negotiation,2022-03-16,,Karan Mehta,East,Schedule Demo,80,
+DEAL-0230,Tripathi-Seth,Retail,Cold Outreach,117853.19,Closed Lost,2022-01-08,,Neha Gupta,West,Send Proposal,60,
+DEAL-0038,Buch-Vala,E-Commerce,Cold Outreach,46944.15,Qualified,2022-09-06,,Aman Verma,South,Schedule Demo,20,
+DEAL-0158,Mahajan-Lall,E-Commerce,Referral,198050.35,Qualified,2022-04-25,2022-11-05,Priya Nair,South,Pricing Discussion,40,194.0
+DEAL-0238,Narang PLC,E-Commerce,Event,218692.04,Qualified,2022-12-05,2023-02-13,Arjun Pillai,North,,30,70.0
+DEAL-0375,Mangal-Sankaran,EdTech,Cold Outreach,195896.43,Prospecting,2022-09-29,2023-03-24,Arjun Pillai,North,,60,176.0
+DEAL-0371,"Sunder, Munshi and Shanker",IT Services,Event,198163.22499999998,Negotiation,2022-03-17,2022-08-09,Neha Gupta,South,,10,145.0
+DEAL-0176,Doshi-Atwal,Retail,Referral,126060.64444444445,Prospecting,2023-01-18,,Deepak Rao,East,Schedule Demo,100,
+DEAL-0588,Mutti-Ahuja,IT Services,Cold Email,165307.668,Negotiation,2022-07-23,2022-09-11,Sonal Joshi,South,Stakeholder Meeting,40,50.0
+DEAL-0627,"Bose, Shan and Lad",SaaS,Cold Outreach,17904.68,Proposal Sent,2023-09-02,2023-11-12,Arjun Pillai,West,,40,71.0
+DEAL-0195,Keer-Sarkar,EdTech,Linkedin,150974.54,Negotiation,2022-03-12,2022-04-30,Arjun Pillai,South,Pricing Discussion,10,49.0
+DEAL-0590,Kalita-Narula,IT Services,Linkedin,243706.78,Closed Lost,2022-01-26,2022-11-05,Neha Gupta,East,,90,283.0
+DEAL-0423,Handa-Mahajan,EdTech,Cold Outreach,187978.99,Proposal Sent,2023-10-15,2024-02-10,Arjun Pillai,South,Send Proposal,50,118.0
+DEAL-0489,Solanki Group,E-Commerce,Linkedin,12896.45,Closed Won,2022-03-13,2022-06-18,Arjun Pillai,West,,90,97.0
+DEAL-0477,Srinivasan Ltd,FinTech,Cold Email,199990.82,Discovery,2022-07-24,2022-10-21,Arjun Pillai,East,Pricing Discussion,50,89.0
+DEAL-0577,Sodhi Inc,Retail,Linkedin,210548.46,Proposal Sent,2022-10-18,2022-11-01,Riya Sharma,West,Contract Review,50,14.0
+DEAL-0596,Shah-Ghosh,E-Commerce,Cold Email,231533.8,Closed Won,2023-04-12,2023-07-21,Arjun Pillai,South,Pricing Discussion,30,100.0
+DEAL-0068,Ghose Inc,SaaS,Event,229038.12,Prospecting,2022-03-23,2022-08-17,Deepak Rao,North,Contract Review,90,147.0
+DEAL-0515,Thakkar-Batta,Logistics,Cold Outreach,219942.75,Closed Won,2023-08-14,2024-01-01,Priya Nair,South,Technical Eval,90,140.0
+DEAL-0169,"Palan, Bhasin and Chadha",SaaS,Cold Email,181056.55,Discovery,2023-10-03,2024-01-06,Sonal Joshi,East,Send Proposal,60,95.0
+DEAL-0445,"Virk, Mammen and Madan",Logistics,Linkedin,166040.44,Closed Won,2022-11-12,2023-04-17,Arjun Pillai,South,Technical Eval,70,156.0
+DEAL-0163,"Kumer, Loyal and Gera",Healthcare,Event,87085.32,Qualified,2022-01-04,2022-02-27,Arjun Pillai,North,Pricing Discussion,50,54.0
+DEAL-0310,Parsa PLC,Logistics,Inbound,233806.41,Proposal Sent,2023-11-09,2023-12-18,Riya Sharma,East,Stakeholder Meeting,100,39.0
+DEAL-0194,Saini-Mannan,Logistics,Inbound,191655.61,Closed Lost,2023-05-13,2023-06-22,Riya Sharma,South,,40,40.0
+DEAL-0377,Tripathi and Sons,Real Estate,Cold Outreach,64471.92,Qualified,2022-12-24,2023-02-27,Arjun Pillai,West,Technical Eval,70,65.0
+DEAL-0366,Saini-Acharya,Real Estate,Referral,113960.29,Prospecting,2022-10-01,,Riya Sharma,South,Technical Eval,80,
+DEAL-0153,Talwar Group,E-Commerce,Linkedin,185978.2,Closed Lost,2023-11-30,2024-02-17,Sonal Joshi,North,Technical Eval,10,79.0
+DEAL-0448,Sathe-Kant,SaaS,Referral,6090.26,Prospecting,2023-01-02,2023-05-04,Arjun Pillai,West,Send Proposal,80,122.0
+DEAL-0572,"Ganesan, Golla and Soman",Real Estate,Event,63638.56,Closed Lost,2023-06-08,2023-06-30,Riya Sharma,East,,90,22.0
+DEAL-0227,Chaudhuri-Dhaliwal,Logistics,Linkedin,244730.22,Closed Lost,2022-08-24,2022-09-06,Riya Sharma,South,Pricing Discussion,30,13.0
+DEAL-0639,Deo-Palla,Real Estate,Cold Outreach,41888.76,Proposal Sent,2022-11-09,,Priya Nair,North,,80,
+DEAL-0555,"Sama, Nadig and Mohan",Manufacturing,Website,154528.21,Closed Won,2022-11-05,,Riya Sharma,West,Follow Up Call,100,
+DEAL-0104,Kala-Nadig,Manufacturing,Referral,146726.21,Closed Won,2022-11-20,2023-01-14,Arjun Pillai,North,,70,55.0
+DEAL-0422,Dhar-Raja,FinTech,Cold Email,45118.98,Proposal Sent,2022-05-14,,Karan Mehta,West,Pricing Discussion,60,
+DEAL-0488,Gill-Badal,Retail,Inbound,65645.25,Proposal Sent,2022-10-13,2022-11-07,Sonal Joshi,West,,80,25.0
+DEAL-0633,Nayar and Sons,E-Commerce,Cold Outreach,95385.24,Closed Lost,2023-07-16,2023-08-31,Neha Gupta,East,Follow Up Call,60,46.0
+DEAL-0116,"Viswanathan, Virk and Murty",E-Commerce,Referral,142417.26,Proposal Sent,2023-04-15,,Karan Mehta,South,,100,
+DEAL-0408,"Saran, Vala and Srivastava",SaaS,Referral,1134691.93,Prospecting,2023-12-05,2024-03-13,Neha Gupta,North,Technical Eval,70,99.0
+DEAL-0120,Kapoor Inc,IT Services,Inbound,170587.8,Closed Lost,2022-10-09,2023-02-11,Priya Nair,North,Schedule Demo,80,125.0
+DEAL-0054,Karnik and Sons,E-Commerce,Referral,83232.52,Closed Won,2022-03-22,2022-06-17,Priya Nair,East,Stakeholder Meeting,30,87.0
+DEAL-0152,"Singh, Koshy and Buch",Retail,Inbound,164813.19,Closed Won,2022-04-28,2022-07-24,Neha Gupta,West,Send Proposal,50,87.0
+DEAL-0404,Morar LLC,EdTech,Cold Outreach,21943.87,Proposal Sent,2023-09-12,2024-02-24,Arjun Pillai,East,Pricing Discussion,40,165.0
+DEAL-0436,Mohanty-Magar,Manufacturing,Linkedin,123160.23636363637,Qualified,2023-07-13,,Priya Nair,South,,100,
+DEAL-0208,Dara-Prabhakar,Logistics,Partner,80501.54,Closed Won,2023-07-07,2023-12-12,Aman Verma,South,,30,158.0
+DEAL-0542,Modi-Anne,FinTech,Cold Email,107861.61714285715,Closed Won,2023-02-17,2023-03-04,Deepak Rao,North,Send Proposal,40,15.0
+DEAL-0484,Sarma-Ramesh,SaaS,Cold Outreach,137800.63,Closed Won,2023-07-11,2023-11-27,Aman Verma,South,Follow Up Call,40,139.0
+DEAL-0466,"Badami, Bir and Parmer",Manufacturing,Referral,136657.92,Proposal Sent,2023-02-26,2023-08-15,Karan Mehta,North,Follow Up Call,50,170.0
+DEAL-0535,Kibe-Nair,IT Services,Cold Outreach,27868.3,Closed Lost,2022-08-05,2022-09-15,Priya Nair,South,,70,41.0
+DEAL-0009,Goswami-Ganesh,Manufacturing,Linkedin,76138.76,Discovery,2023-11-24,2024-12-03,Arjun Pillai,East,,70,375.0
+DEAL-0456,Walla-Koshy,Retail,Linkedin,101173.28,Prospecting,2023-02-21,2023-04-15,Deepak Rao,North,Stakeholder Meeting,30,53.0
+DEAL-0037,Tiwari LLC,Manufacturing,Linkedin,149993.07,Negotiation,2022-10-12,2023-04-06,Sonal Joshi,South,Technical Eval,70,176.0
+DEAL-0140,Dugar and Sons,Logistics,Event,13325.9,Closed Won,2023-03-09,2023-07-13,Sonal Joshi,South,Technical Eval,60,126.0
+DEAL-0254,Saraf-Bhardwaj,Retail,Inbound,133493.45,Qualified,2022-07-14,2022-11-19,Aman Verma,North,,20,128.0
+DEAL-0304,"Samra, Handa and Prashad",EdTech,Cold Outreach,16886.03,Closed Won,2022-09-29,,Priya Nair,West,Follow Up Call,100,
+DEAL-0606,"Rattan, Bail and Basak",FinTech,Inbound,33923.9,Proposal Sent,2022-06-01,2022-10-20,Arjun Pillai,East,Follow Up Call,100,141.0
+DEAL-0524,Wali LLC,SaaS,Cold Email,139091.08,Proposal Sent,2023-12-05,,Riya Sharma,West,,30,
+DEAL-0369,Kumar and Sons,Real Estate,Linkedin,141461.33,Closed Lost,2023-07-31,2023-12-28,Priya Nair,West,Schedule Demo,50,150.0
+DEAL-0060,Shroff-Lalla,Real Estate,Event,90679.37000000001,Proposal Sent,2023-08-15,2023-08-28,Sonal Joshi,West,Technical Eval,10,13.0
+DEAL-0112,Trivedi-Rana,Retail,Cold Email,54953.46,Closed Won,2023-11-03,2024-03-14,Neha Gupta,West,,80,132.0
+DEAL-0486,"Aggarwal, Doshi and Raman",E-Commerce,Inbound,58542.77,Qualified,2023-02-13,2023-05-16,Deepak Rao,East,Follow Up Call,40,92.0
+DEAL-0500,Behl Ltd,Healthcare,Event,1968500.23,Discovery,2022-09-25,2022-12-28,Riya Sharma,West,,100,94.0
+DEAL-0594,Rattan Inc,Real Estate,Cold Email,112184.08,Negotiation,2023-09-18,2024-02-23,Karan Mehta,East,Send Proposal,70,158.0
+DEAL-0263,"Baral, Saran and Sekhon",SaaS,Linkedin,85914.43,Closed Won,2022-02-25,2022-04-26,Priya Nair,North,Contract Review,50,60.0
+DEAL-0583,Khatri PLC,SaaS,Cold Email,102503.88,Qualified,2022-04-06,2022-05-07,Deepak Rao,West,,50,31.0
+DEAL-0298,Venkatesh-Virk,Healthcare,Referral,91283.16,Qualified,2023-02-15,,Sonal Joshi,East,Contract Review,70,
+DEAL-0415,Ramakrishnan-Kata,EdTech,Linkedin,150485.89,Qualified,2022-04-05,2022-09-08,Arjun Pillai,North,Send Proposal,60,156.0
+DEAL-0151,Viswanathan and Sons,E-Commerce,Cold Outreach,82214.55111111113,Proposal Sent,2023-11-28,2024-03-29,Sonal Joshi,West,Stakeholder Meeting,10,122.0
+DEAL-0434,Krish-Shenoy,Healthcare,Cold Outreach,28917.64,Proposal Sent,2023-12-09,2024-02-22,Deepak Rao,West,,30,75.0
+DEAL-0441,Gaba and Sons,Manufacturing,Event,131418.51,Closed Won,2022-06-01,,Priya Nair,East,Pricing Discussion,20,
+DEAL-0604,Bora-Sekhon,EdTech,Referral,96108.01,Discovery,2023-02-14,2023-04-16,Neha Gupta,West,,10,61.0
+DEAL-0360,Gour Group,Logistics,Cold Email,77367.97,Prospecting,2023-11-19,2023-12-06,Priya Nair,West,Stakeholder Meeting,60,17.0
+DEAL-0616,Kuruvilla LLC,Retail,Inbound,117412.07583333332,Closed Lost,2023-04-21,2023-09-05,Arjun Pillai,West,Contract Review,90,137.0
+DEAL-0039,Sachar Inc,Logistics,Inbound,225990.22,Discovery,2022-08-09,,Arjun Pillai,West,Technical Eval,90,
+DEAL-0424,Goda PLC,E-Commerce,Inbound,173477.78,Proposal Sent,2022-09-26,2023-01-27,Deepak Rao,West,,90,123.0
+DEAL-0417,Koshy Ltd,Healthcare,Linkedin,167850.0,Negotiation,2023-03-10,2023-11-06,Arjun Pillai,North,Follow Up Call,20,241.0
+DEAL-0308,Borra-Behl,Logistics,Inbound,828079.51,Prospecting,2023-12-15,2024-04-21,Neha Gupta,South,,70,128.0
+DEAL-0199,Pant and Sons,Real Estate,Website,226207.6,Closed Lost,2023-11-07,2024-01-18,Neha Gupta,East,Follow Up Call,60,72.0
+DEAL-0352,"Deshmukh, Behl and Som",Manufacturing,Website,23624.47,Closed Won,2022-09-25,2023-01-20,Neha Gupta,South,Follow Up Call,80,117.0
+DEAL-0491,Rajagopal-Biswas,E-Commerce,Linkedin,99694.79222222224,Qualified,2022-12-26,2023-02-18,Aman Verma,North,Follow Up Call,10,54.0
+DEAL-0147,"Dhingra, Mohanty and Atwal",E-Commerce,Partner,1479339.2,Discovery,2023-06-26,2023-11-08,Arjun Pillai,South,Follow Up Call,10,135.0
+DEAL-0451,Chawla PLC,Healthcare,Referral,200878.08,Closed Won,2022-09-13,,Karan Mehta,West,Schedule Demo,80,
+DEAL-0644,Sachdev LLC,Manufacturing,Event,185830.25,Negotiation,2023-04-10,2024-02-01,Sonal Joshi,West,,20,297.0
+DEAL-0520,Bhagat-Balay,FinTech,Partner,213276.03,Qualified,2023-03-23,2023-06-16,Deepak Rao,North,Technical Eval,60,85.0
+DEAL-0420,Konda Ltd,E-Commerce,Referral,241868.73,Proposal Sent,2022-01-04,2022-06-21,Priya Nair,South,Contract Review,70,168.0
+DEAL-0618,Murty-Chawla,FinTech,Referral,106118.49714285714,Proposal Sent,2023-07-25,2023-08-25,Neha Gupta,West,,50,31.0
+DEAL-0148,Khalsa-Chakrabarti,IT Services,Inbound,121546.41,Closed Lost,2022-09-15,,Deepak Rao,North,Technical Eval,60,
+DEAL-0544,Warrior Ltd,Retail,Partner,132263.84,Closed Lost,2022-10-30,2023-02-12,Sonal Joshi,South,Schedule Demo,70,105.0
+DEAL-0349,Kari-Varughese,Manufacturing,Linkedin,24214.78,Qualified,2023-08-02,2023-11-10,Priya Nair,South,Contract Review,50,100.0
+DEAL-0464,"Warrior, Bajwa and Chadha",Logistics,Partner,151124.33,Discovery,2022-03-07,2022-12-27,Karan Mehta,East,Follow Up Call,10,295.0
+DEAL-0326,"Garde, Borde and Seth",Healthcare,Event,606399.265,Proposal Sent,2023-06-28,2023-10-10,Priya Nair,East,Stakeholder Meeting,10,104.0
+DEAL-0187,Krishna and Sons,SaaS,Website,161484.27,Closed Won,2022-11-11,2023-03-25,Arjun Pillai,North,Schedule Demo,30,134.0
+DEAL-0124,Gokhale-Shetty,Manufacturing,Referral,78132.29,Negotiation,2023-08-22,2024-02-06,Sonal Joshi,East,Follow Up Call,10,168.0
+DEAL-0589,Maharaj Inc,Logistics,Linkedin,294509.7725,Closed Won,2022-05-31,2022-06-21,Priya Nair,South,Stakeholder Meeting,30,21.0
+DEAL-0097,"Sankar, Tiwari and Dugar",Healthcare,Linkedin,142916.44,Closed Won,2023-07-25,2023-12-19,Aman Verma,South,Follow Up Call,10,147.0
+DEAL-0144,"Mani, Bhalla and Gaba",Retail,Inbound,120738.96,Qualified,2023-01-26,2023-03-27,Riya Sharma,North,Schedule Demo,70,60.0
+DEAL-0395,Mander-Sawhney,Logistics,Event,160061.1,Closed Won,2022-04-17,2022-05-23,Aman Verma,North,,100,36.0
+DEAL-0470,Chakraborty-Mandal,SaaS,Inbound,156755.44,Qualified,2022-06-13,2022-11-29,Deepak Rao,South,Stakeholder Meeting,50,169.0
+DEAL-0098,Kar-Varughese,EdTech,Linkedin,9076.05,Negotiation,2022-08-13,2022-10-09,Deepak Rao,North,Pricing Discussion,30,57.0
+DEAL-0372,Mallick-Raja,IT Services,Cold Outreach,151246.52,Negotiation,2023-07-05,2023-11-21,Karan Mehta,North,Schedule Demo,30,139.0
+DEAL-0294,"Sandal, Goel and Brar",EdTech,Linkedin,236148.81,Qualified,2023-02-21,2023-04-29,Karan Mehta,North,Follow Up Call,20,67.0
+DEAL-0255,"Singh, Suresh and Date",Manufacturing,Event,105023.5,Negotiation,2022-04-07,2022-12-08,Neha Gupta,West,Follow Up Call,40,245.0
+DEAL-0401,Kannan LLC,Retail,Cold Outreach,11594.45,Closed Won,2022-06-09,2022-10-06,Arjun Pillai,South,Technical Eval,80,119.0
+DEAL-0123,"Pingle, Kaul and Goda",FinTech,Website,239547.66,Proposal Sent,2022-09-27,2023-01-21,Riya Sharma,South,,80,116.0
+DEAL-0203,Batra and Sons,SaaS,Referral,124762.85,Proposal Sent,2022-09-29,2022-12-18,Arjun Pillai,East,Send Proposal,60,80.0
+DEAL-0439,"Nazareth, Bahri and Bala",IT Services,Website,31793.86,Prospecting,2023-08-20,2024-05-01,Aman Verma,North,Stakeholder Meeting,20,255.0
+DEAL-0247,"Sarraf, Lad and Sanghvi",Healthcare,Partner,132706.51,Closed Won,2022-05-16,2022-07-27,Karan Mehta,South,Technical Eval,100,72.0
+DEAL-0416,Viswanathan LLC,E-Commerce,Linkedin,31795.51,Prospecting,2023-12-10,2024-01-24,Deepak Rao,East,Send Proposal,20,45.0
+DEAL-0130,Kadakia Inc,EdTech,Referral,145501.82,Closed Won,2022-05-22,2022-06-26,Arjun Pillai,North,,40,35.0
+DEAL-0403,"Kumer, Bhatti and Desai",SaaS,Referral,200432.95,Closed Won,2022-10-16,2023-04-08,Arjun Pillai,South,Send Proposal,30,174.0
+DEAL-0582,"Dixit, Minhas and Thaman",Retail,Cold Email,231031.93,Qualified,2022-10-12,2023-02-05,Arjun Pillai,South,,60,116.0
+DEAL-0539,Chand-Mohanty,Logistics,Referral,182867.15,Negotiation,2023-11-14,2024-02-29,Neha Gupta,North,Contract Review,40,107.0
+DEAL-0220,"Banik, Ray and Sankaran",Logistics,Cold Email,97486.61,Discovery,2022-11-09,2023-06-03,Priya Nair,West,,50,206.0
+DEAL-0631,Shukla-Mani,FinTech,Linkedin,194514.23,Closed Lost,2023-01-06,2023-09-12,Deepak Rao,East,Follow Up Call,70,249.0
+DEAL-0634,Gara-Sha,Retail,Referral,197204.27,Closed Lost,2023-02-04,2023-08-02,Aman Verma,South,Schedule Demo,50,179.0
+DEAL-0534,Manne-Bhatti,FinTech,Cold Outreach,219233.73,Negotiation,2023-11-11,2024-01-21,Riya Sharma,West,Send Proposal,10,71.0
+DEAL-0268,"Nagar, Bhat and Dani",Retail,Inbound,153217.51,Prospecting,2022-03-04,,Aman Verma,North,,50,
+DEAL-0442,Dugar-Comar,IT Services,Website,86092.47,Closed Won,2023-03-17,2023-06-04,Priya Nair,South,,50,79.0
+DEAL-0497,Parmar-Suresh,EdTech,Cold Email,204314.82,Qualified,2022-12-06,2023-12-03,Karan Mehta,South,Stakeholder Meeting,70,362.0
+DEAL-0113,"Sathe, Wali and Lata",EdTech,Cold Outreach,154812.12,Closed Lost,2023-05-27,2023-07-23,Priya Nair,East,Schedule Demo,30,57.0
+DEAL-0233,Karnik and Sons,Healthcare,Cold Outreach,114564.49333333335,Discovery,2023-10-09,2024-01-11,Deepak Rao,East,,30,94.0
+DEAL-0603,Minhas PLC,Logistics,Event,206514.18,Qualified,2023-05-22,,Riya Sharma,West,Schedule Demo,70,
+DEAL-0374,"Chahal, Choudhary and Balan",IT Services,Inbound,126531.21142857142,Closed Won,2023-06-03,2023-07-12,Sonal Joshi,South,,20,39.0
+DEAL-0234,"Yohannan, Patla and Raman",IT Services,Inbound,155656.19,Qualified,2022-02-03,2022-07-26,Priya Nair,West,Technical Eval,70,173.0
+DEAL-0548,"Tak, Toor and Varghese",Logistics,Website,61091.98,Qualified,2023-07-03,,Karan Mehta,West,Stakeholder Meeting,80,
+DEAL-0318,Sundaram PLC,Logistics,Cold Outreach,48920.38,Negotiation,2023-07-10,2024-01-03,Sonal Joshi,West,Schedule Demo,70,177.0
+DEAL-0411,Sachar Inc,E-Commerce,Referral,231256.46,Closed Won,2023-02-06,2023-06-29,Sonal Joshi,South,Schedule Demo,40,143.0
+DEAL-0620,"Subramaniam, Shanker and Walla",IT Services,Event,240283.83,Proposal Sent,2022-05-05,2022-06-30,Priya Nair,North,,80,56.0
+DEAL-0359,Wason Group,SaaS,Partner,98117.81,Closed Won,2022-05-15,2022-09-19,Priya Nair,North,,70,127.0
+DEAL-0259,"Goyal, Bhalla and Mittal",SaaS,Cold Outreach,1194537.74,Closed Lost,2022-12-29,2023-05-01,Neha Gupta,West,Contract Review,20,123.0
+DEAL-0283,"Dhingra, Kaul and Walla",IT Services,Website,119171.0,Proposal Sent,2022-03-19,,Neha Gupta,South,,80,
+DEAL-0385,Datta-Dutta,Manufacturing,Cold Outreach,117176.1,Closed Lost,2023-12-22,2024-01-24,Arjun Pillai,North,,90,33.0
+DEAL-0225,Zacharia PLC,EdTech,Linkedin,36200.04,Closed Lost,2023-08-26,2023-12-26,Aman Verma,West,Send Proposal,80,122.0
+DEAL-0629,Pandit Inc,E-Commerce,Event,186603.09000000003,Negotiation,2023-03-30,2023-04-23,Riya Sharma,South,Follow Up Call,40,24.0
+DEAL-0473,Barad PLC,Healthcare,Cold Outreach,142587.61,Negotiation,2023-01-27,,Priya Nair,South,Follow Up Call,80,
+DEAL-0348,Kata LLC,EdTech,Referral,198672.03,Negotiation,2023-08-21,,Riya Sharma,North,Contract Review,20,
+DEAL-0506,"Dhillon, Mammen and Roy",Retail,Cold Email,165694.59,Prospecting,2023-09-03,,Aman Verma,North,Stakeholder Meeting,40,
+DEAL-0642,Sawhney-Kata,SaaS,Inbound,7350.73,Closed Lost,2023-06-18,2023-07-17,Sonal Joshi,South,Contract Review,100,29.0
+DEAL-0625,"Salvi, Desai and Arya",IT Services,Website,207369.26,Discovery,2023-06-28,2023-08-19,Aman Verma,East,Pricing Discussion,60,52.0
+DEAL-0591,"Thaman, Raghavan and Subramanian",E-Commerce,Referral,990125.44,Negotiation,2022-02-17,2022-03-03,Karan Mehta,East,Pricing Discussion,40,14.0
+DEAL-0557,Bail-Srinivas,Retail,Cold Outreach,188325.86,Closed Lost,2023-07-16,2023-08-15,Neha Gupta,East,,50,30.0
+DEAL-0086,Panchal-Saran,Logistics,Referral,94573.56,Closed Won,2023-09-16,2024-03-09,Karan Mehta,West,,20,175.0
+DEAL-0243,Kara-Lad,Healthcare,Event,229517.27,Closed Won,2023-11-17,2024-11-02,Riya Sharma,East,Send Proposal,10,351.0
+DEAL-0160,Varughese PLC,E-Commerce,Referral,75919.41,Closed Won,2023-03-22,2023-08-26,Priya Nair,East,Stakeholder Meeting,20,157.0
+DEAL-0036,"Sachar, Lata and Koshy",FinTech,Partner,27889.96,Negotiation,2022-12-15,2023-02-20,Riya Sharma,West,Contract Review,60,67.0
+DEAL-0541,"Viswanathan, Chanda and Pradhan",Real Estate,Cold Outreach,112175.37222222223,Negotiation,2022-01-12,2023-01-31,Deepak Rao,South,Send Proposal,40,384.0
+DEAL-0171,"Mitra, Thakur and Johal",SaaS,Cold Outreach,77280.94,Closed Won,2023-10-17,2024-01-19,Deepak Rao,East,,30,94.0
+DEAL-0599,Baral-Rama,Real Estate,Referral,166222.83,Qualified,2023-08-13,2023-12-23,Neha Gupta,South,Technical Eval,50,132.0
+DEAL-0585,Grover PLC,EdTech,Inbound,108775.93,Closed Lost,2023-11-20,,Karan Mehta,East,Schedule Demo,50,
+DEAL-0314,Bhattacharyya-Pant,IT Services,Event,198163.22499999998,Closed Lost,2022-10-31,2023-03-27,Neha Gupta,West,Schedule Demo,20,147.0
+DEAL-0096,Kade Inc,Manufacturing,Referral,129879.95,Qualified,2023-06-12,2024-03-02,Priya Nair,South,,80,264.0
+DEAL-0461,Virk and Sons,SaaS,Cold Outreach,81730.51,Qualified,2022-01-07,2022-09-09,Deepak Rao,North,Pricing Discussion,70,245.0
+DEAL-0554,"Keer, Contractor and Dash",Healthcare,Inbound,21760.84,Closed Lost,2023-06-08,2023-11-30,Aman Verma,West,Stakeholder Meeting,50,175.0
+DEAL-0608,Mitra-Sarraf,Real Estate,Inbound,133344.28,Prospecting,2023-12-06,2023-12-25,Arjun Pillai,East,Send Proposal,60,19.0
+DEAL-0207,"Sehgal, Dube and Koshy",FinTech,Website,141905.31,Closed Lost,2022-08-05,2022-10-30,Arjun Pillai,South,Technical Eval,10,86.0
+DEAL-0393,Dugar PLC,Real Estate,Website,48521.13,Prospecting,2022-11-03,2022-11-26,Deepak Rao,South,,10,23.0
+DEAL-0398,Sarin-Gade,Real Estate,Linkedin,94428.81,Negotiation,2022-04-29,2022-06-05,Arjun Pillai,South,Contract Review,100,37.0
+DEAL-0218,"Chhabra, Sharaf and Pant",IT Services,Partner,96742.93,Discovery,2023-04-08,2023-07-24,Karan Mehta,West,Send Proposal,20,107.0
+DEAL-0005,"Saxena, Barman and Chahal",Logistics,Linkedin,179775.62,Closed Won,2022-08-09,2022-10-04,Karan Mehta,East,Follow Up Call,100,56.0
+DEAL-0619,"Bir, Mishra and Kapur",SaaS,Referral,230455.5,Prospecting,2022-09-13,2022-10-13,Priya Nair,South,Send Proposal,20,30.0
+DEAL-0099,"Palla, Sunder and Deo",Real Estate,Event,31853.12,Qualified,2023-03-12,2024-04-14,Priya Nair,South,,100,399.0
+DEAL-0574,Pillay-Chand,FinTech,Cold Outreach,22397.94,Closed Won,2022-06-23,2022-10-28,Sonal Joshi,West,Send Proposal,90,127.0
+DEAL-0407,"Dayal, Kala and Mitter",E-Commerce,Referral,66907.01,Closed Won,2022-07-28,2022-10-25,Riya Sharma,North,,10,89.0
+DEAL-0503,Bhakta-Ratti,Real Estate,Cold Outreach,204719.32,Closed Lost,2022-09-29,2023-03-26,Deepak Rao,South,Follow Up Call,40,178.0
+DEAL-0033,Sharma-Wason,IT Services,Inbound,24320.68,Negotiation,2022-06-13,2022-07-13,Arjun Pillai,South,Pricing Discussion,30,30.0
+DEAL-0201,Rout Ltd,Logistics,Linkedin,1781729.01,Closed Lost,2023-07-17,2023-12-27,Arjun Pillai,North,,40,163.0
+DEAL-0135,"Seshadri, Bir and Vyas",Manufacturing,Inbound,24362.21,Proposal Sent,2022-04-23,,Deepak Rao,West,Send Proposal,70,
+DEAL-0028,Seth-Setty,EdTech,Linkedin,217711.85,Negotiation,2022-08-14,,Aman Verma,North,Pricing Discussion,30,
+DEAL-0610,Garg LLC,SaaS,Cold Outreach,126556.15,Qualified,2022-04-20,2022-05-12,Deepak Rao,West,Contract Review,90,22.0
+DEAL-0231,Ben-Pall,Healthcare,Referral,782720.68,Negotiation,2022-03-14,2022-05-30,Deepak Rao,South,Stakeholder Meeting,40,77.0
+DEAL-0490,Sen-Bera,SaaS,Inbound,216238.91,Negotiation,2022-10-13,2022-11-13,Arjun Pillai,East,Send Proposal,60,31.0
+DEAL-0379,Deshmukh LLC,Logistics,Referral,903378.45,Closed Lost,2022-08-09,2023-01-12,Riya Sharma,North,Follow Up Call,40,156.0
+DEAL-0289,Narang-Chandran,Logistics,Referral,190858.5881818182,Proposal Sent,2023-08-07,2023-11-18,Neha Gupta,North,Pricing Discussion,10,103.0
+DEAL-0419,"Luthra, Anand and Bahri",EdTech,Partner,163032.64,Negotiation,2022-02-15,2022-10-03,Riya Sharma,South,,90,230.0
+DEAL-0593,"Wable, Ray and Ghose",FinTech,Cold Email,162572.87,Closed Won,2023-02-05,2023-10-27,Deepak Rao,West,Technical Eval,100,264.0
+DEAL-0499,Comar LLC,Logistics,Website,151230.13,Closed Won,2022-04-29,2022-10-21,Neha Gupta,West,Contract Review,90,175.0
+DEAL-0139,"Kant, Mohanty and Sundaram",EdTech,Inbound,71547.26,Qualified,2023-11-28,2024-02-18,Neha Gupta,South,Technical Eval,80,82.0
+DEAL-0063,"Bahl, Ghose and Walla",IT Services,Cold Email,204302.07,Negotiation,2022-03-13,2022-09-01,Aman Verma,West,Contract Review,30,172.0
+DEAL-0472,Kala Group,FinTech,Linkedin,52806.48,Closed Won,2022-04-21,2022-08-21,Sonal Joshi,West,Schedule Demo,50,122.0
+DEAL-0129,"Rajagopal, Kashyap and Bhatia",Logistics,Website,181807.77,Proposal Sent,2022-08-13,2022-09-07,Deepak Rao,South,Contract Review,70,25.0
+DEAL-0462,"Raj, Rama and Grewal",Retail,Website,33652.48,Discovery,2023-02-27,,Neha Gupta,East,Schedule Demo,60,
+DEAL-0521,Sarraf-Edwin,EdTech,Cold Email,102440.39,Discovery,2022-01-02,2022-06-02,Riya Sharma,North,Contract Review,80,151.0
+DEAL-0065,Kumar-Pall,SaaS,Inbound,44038.89,Closed Won,2023-11-09,2024-03-09,Karan Mehta,West,Pricing Discussion,70,121.0
+DEAL-0015,Bora and Sons,FinTech,Cold Outreach,93419.65,Negotiation,2022-01-31,2022-05-28,Karan Mehta,West,Technical Eval,30,117.0
+DEAL-0157,"Chaudhari, Sama and Bobal",E-Commerce,Referral,340845.1676923077,Closed Won,2022-12-15,2023-03-17,Riya Sharma,West,Pricing Discussion,100,92.0
+DEAL-0041,Sachar Inc,IT Services,Cold Email,165307.668,Qualified,2022-04-15,2022-06-25,Neha Gupta,South,Schedule Demo,40,71.0
+DEAL-0493,Prasad-Chopra,FinTech,Cold Email,56420.15,Closed Won,2023-06-06,2023-10-06,Deepak Rao,East,,30,122.0
+DEAL-0380,Dutta Group,Retail,Cold Outreach,40754.03,Proposal Sent,2023-01-14,2023-02-17,Aman Verma,West,,90,34.0
+DEAL-0188,Vala-Prabhakar,Real Estate,Linkedin,95048.26,Closed Won,2022-09-03,2023-02-21,Riya Sharma,North,Contract Review,80,171.0
+DEAL-0217,Bala-Dewan,Retail,Cold Outreach,183675.93,Closed Lost,2023-06-14,,Sonal Joshi,South,,100,
+DEAL-0053,"Pai, Palla and Jaggi",SaaS,Linkedin,40198.83,Negotiation,2023-01-23,2023-07-12,Riya Sharma,North,Schedule Demo,60,170.0
+DEAL-0338,Bali-Gola,SaaS,Cold Outreach,172685.04,Closed Lost,2022-03-05,2022-07-05,Karan Mehta,South,Pricing Discussion,100,122.0
+DEAL-0296,"Saran, Jain and Brar",Manufacturing,Inbound,182271.7,Proposal Sent,2023-05-08,2023-10-07,Arjun Pillai,East,Stakeholder Meeting,60,152.0
+DEAL-0252,Suri and Sons,Real Estate,Linkedin,101593.12333333335,Prospecting,2023-04-30,2023-10-07,Aman Verma,North,Schedule Demo,30,160.0
+DEAL-0270,Yadav Inc,Manufacturing,Event,115113.0825,Closed Won,2022-12-14,2023-05-17,Arjun Pillai,West,Send Proposal,10,154.0
+DEAL-0162,Sinha and Sons,Logistics,Website,152681.83,Proposal Sent,2023-04-10,2023-06-27,Deepak Rao,East,,40,78.0
+DEAL-0556,"Yadav, Bansal and Sinha",SaaS,Inbound,1026781.58,Negotiation,2023-02-20,2023-05-01,Deepak Rao,North,,50,70.0
+DEAL-0402,Sethi Group,Manufacturing,Linkedin,236028.85,Closed Lost,2022-10-06,2023-03-24,Neha Gupta,South,Pricing Discussion,30,169.0
+DEAL-0106,Choudhary Ltd,FinTech,Cold Outreach,133436.92,Closed Lost,2022-02-10,2022-10-23,Karan Mehta,East,Contract Review,30,255.0
+DEAL-0566,"Kalita, Sampath and Bhatnagar",Real Estate,Inbound,235613.42,Prospecting,2022-11-26,2022-12-07,Riya Sharma,North,Follow Up Call,90,11.0
+DEAL-0002,Nagar and Sons,Real Estate,Referral,249664.07,Closed Lost,2022-04-25,2022-05-25,Deepak Rao,North,,60,30.0
+DEAL-0649,Kumar-Soni,FinTech,Website,168572.16,Prospecting,2022-10-20,,Priya Nair,West,Follow Up Call,70,
+DEAL-0562,Chandra PLC,Retail,Cold Outreach,110200.24,Negotiation,2023-03-17,2023-06-08,Sonal Joshi,East,Follow Up Call,50,83.0
+DEAL-0081,Gara-Karan,FinTech,Event,139714.99,Proposal Sent,2022-10-01,2022-12-20,Neha Gupta,South,Schedule Demo,60,80.0
+DEAL-0206,"Banerjee, Dass and Chakraborty",IT Services,Website,29436.48,Closed Won,2023-03-10,2023-03-20,Arjun Pillai,North,Contract Review,10,10.0
+DEAL-0035,"Hegde, Nadig and Sane",FinTech,Inbound,158130.48,Closed Won,2023-09-03,,Neha Gupta,West,Schedule Demo,80,
+DEAL-0509,"Kumer, Agrawal and Suri",Logistics,Referral,211671.14,Prospecting,2022-11-18,2023-08-03,Neha Gupta,South,Technical Eval,10,258.0
+DEAL-0428,"Sethi, Mallick and Bora",Manufacturing,Linkedin,123278.92,Prospecting,2023-12-24,2024-06-02,Deepak Rao,North,Schedule Demo,100,161.0
+DEAL-0455,"Kumar, Sidhu and Hora",Healthcare,Cold Email,81784.01,Qualified,2023-07-28,2023-11-01,Sonal Joshi,East,Stakeholder Meeting,70,96.0
+DEAL-0367,Bora-Gera,Retail,Inbound,30046.7,Closed Won,2023-04-15,2023-11-05,Karan Mehta,North,,50,204.0
+DEAL-0092,Soni LLC,Retail,Cold Outreach,39246.34,Qualified,2023-04-19,2023-11-09,Riya Sharma,East,Schedule Demo,20,204.0
+DEAL-0340,Mangat and Sons,EdTech,Website,48941.85,Prospecting,2022-09-10,2022-10-27,Aman Verma,East,Technical Eval,40,47.0
+DEAL-0565,"Bera, Sarma and Ram",Healthcare,Cold Outreach,181689.01,Closed Won,2023-11-02,2024-11-03,Riya Sharma,West,Follow Up Call,50,367.0
+DEAL-0346,Badami PLC,Healthcare,Inbound,170873.57,Closed Won,2023-03-06,,Neha Gupta,West,Contract Review,20,
+DEAL-0242,Chakraborty and Sons,E-Commerce,Referral,1990225.16,Proposal Sent,2022-10-13,2022-11-17,Deepak Rao,South,,100,35.0
+DEAL-0014,Sekhon-Dey,Healthcare,Linkedin,63000.37,Closed Lost,2022-02-02,2022-04-29,Riya Sharma,North,,70,86.0
+DEAL-0316,"Dugar, Halder and Bhatti",Manufacturing,Cold Email,128042.93,Qualified,2022-01-03,2022-07-27,Aman Verma,East,Follow Up Call,40,205.0
+DEAL-0601,"Ramachandran, Ganesan and Gala",IT Services,Linkedin,49438.15,Qualified,2023-12-15,,Aman Verma,West,,70,
+DEAL-0388,"Sanghvi, Srinivas and Batra",Manufacturing,Partner,216238.59,Closed Lost,2023-01-11,,Karan Mehta,West,,40,
+DEAL-0274,Johal Group,Real Estate,Linkedin,227703.57,Negotiation,2022-07-14,2022-09-20,Deepak Rao,South,,70,68.0
+DEAL-0167,Narain-Chand,Retail,Partner,203159.4,Closed Won,2023-04-06,2023-10-17,Neha Gupta,South,Schedule Demo,100,194.0
+DEAL-0647,"Mukhopadhyay, Toor and Rau",FinTech,Website,243277.01,Proposal Sent,2023-03-27,2023-08-11,Riya Sharma,West,Contract Review,90,137.0
+DEAL-0485,Savant-Loke,FinTech,Inbound,191201.01,Negotiation,2022-07-17,2022-12-20,Karan Mehta,North,Follow Up Call,80,156.0
+DEAL-0505,Gandhi Inc,Manufacturing,Cold Outreach,19525.04,Negotiation,2022-04-22,2022-07-26,Priya Nair,West,Send Proposal,10,95.0
+DEAL-0567,"Deep, Chakrabarti and Date",Logistics,Website,141799.574,Qualified,2023-04-22,2023-06-05,Sonal Joshi,East,Follow Up Call,100,44.0
+DEAL-0563,Dhawan-Rau,E-Commerce,Cold Outreach,65707.66,Closed Won,2023-08-17,2023-12-25,Deepak Rao,West,Follow Up Call,40,130.0
+DEAL-0476,Mital-Garde,EdTech,Referral,45977.1,Prospecting,2022-08-16,,Arjun Pillai,East,Schedule Demo,30,
+DEAL-0511,Mander LLC,E-Commerce,Inbound,158814.14,Discovery,2023-09-13,2023-12-28,Karan Mehta,West,,40,106.0
+DEAL-0059,"Sethi, Bhatt and Kapur",IT Services,Cold Outreach,39515.02,Closed Won,2023-01-06,2023-05-25,Karan Mehta,South,Follow Up Call,90,139.0
+DEAL-0475,Khosla Inc,Manufacturing,Inbound,178984.88,Closed Lost,2023-04-27,2023-05-10,Riya Sharma,West,Schedule Demo,40,13.0
+DEAL-0561,"Nigam, Nath and Karan",Real Estate,Cold Outreach,13864.55,Closed Won,2022-08-04,2022-09-20,Aman Verma,South,Contract Review,80,47.0
+DEAL-0253,"Bhatt, Dugar and Mutti",Logistics,Inbound,162612.44,Prospecting,2023-02-21,2023-07-30,Neha Gupta,West,Follow Up Call,60,159.0
+DEAL-0022,Subramanian-Mani,EdTech,Linkedin,34307.13,Qualified,2023-07-29,2024-01-14,Arjun Pillai,West,Contract Review,60,169.0
+DEAL-0460,Agate-Virk,Healthcare,Referral,149591.25,Closed Won,2022-06-16,2022-08-12,Aman Verma,West,Pricing Discussion,10,57.0
+DEAL-0277,Sarkar LLC,SaaS,Event,229038.12,Qualified,2022-05-24,2022-11-18,Karan Mehta,West,Pricing Discussion,80,178.0
+DEAL-0192,Borra PLC,SaaS,Referral,228635.24,Closed Won,2022-03-22,2022-05-28,Karan Mehta,North,Contract Review,40,67.0
+DEAL-0386,"Ahluwalia, Narayan and Nagar",Logistics,Referral,49665.02,Prospecting,2022-11-06,2023-02-19,Riya Sharma,South,Contract Review,80,105.0
+DEAL-0414,Pradhan Group,EdTech,Referral,176900.4,Closed Lost,2022-02-22,2022-04-28,Aman Verma,West,Technical Eval,50,65.0
+DEAL-0492,Vig and Sons,Retail,Event,33759.58,Prospecting,2023-10-19,,Priya Nair,West,Schedule Demo,90,
+DEAL-0344,Oommen Inc,Manufacturing,Cold Outreach,78322.84,Negotiation,2023-09-27,2024-02-22,Riya Sharma,East,Contract Review,30,148.0
+DEAL-0309,"Gulati, Chhabra and Nagi",E-Commerce,Cold Outreach,19810.28,Closed Won,2023-07-24,2023-10-19,Sonal Joshi,West,Pricing Discussion,30,87.0
+DEAL-0131,Venkatesh Ltd,Logistics,Linkedin,224461.31,Negotiation,2023-06-06,2023-08-08,Aman Verma,West,Stakeholder Meeting,90,63.0
+DEAL-0100,"Baria, Date and Kibe",FinTech,Event,80381.07,Discovery,2022-11-29,2023-08-05,Aman Verma,South,Send Proposal,70,249.0
+DEAL-0373,Raval-Bhattacharyya,Retail,Cold Outreach,216610.95,Closed Won,2022-07-08,2022-11-09,Aman Verma,North,Stakeholder Meeting,20,124.0
+DEAL-0088,Sachdeva Group,Manufacturing,Referral,14862.45,Proposal Sent,2022-06-25,2022-07-28,Arjun Pillai,North,Stakeholder Meeting,20,33.0
+DEAL-0331,"Zachariah, Mangat and Mani",Healthcare,Linkedin,25258.1,Negotiation,2022-10-07,,Sonal Joshi,West,Send Proposal,30,
+DEAL-0215,Murthy-Madan,E-Commerce,Inbound,75337.22,Discovery,2023-01-18,2023-03-28,Priya Nair,West,,60,69.0
+DEAL-0467,"Sarma, Rao and Singh",Retail,Cold Outreach,233020.26,Proposal Sent,2023-11-17,2024-04-19,Arjun Pillai,East,Pricing Discussion,60,154.0
+DEAL-0122,Kata Group,Retail,Referral,69768.73,Proposal Sent,2023-07-06,2023-08-15,Priya Nair,South,Send Proposal,90,40.0
+DEAL-0615,Hari-Rai,FinTech,Cold Outreach,13331.39,Closed Won,2023-06-15,2023-11-08,Neha Gupta,East,,30,146.0
+DEAL-0021,Sarma and Sons,Real Estate,Referral,145850.62,Closed Won,2022-01-28,2022-06-06,Karan Mehta,North,Stakeholder Meeting,60,129.0
+DEAL-0271,Dada and Sons,Logistics,Cold Outreach,148958.0,Qualified,2022-04-22,2022-05-14,Neha Gupta,North,,10,22.0
+DEAL-0103,Pathak-Kuruvilla,Real Estate,Website,165619.79,Qualified,2022-02-02,2022-04-28,Arjun Pillai,East,Send Proposal,10,85.0
